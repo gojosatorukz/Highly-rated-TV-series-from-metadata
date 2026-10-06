@@ -1,0 +1,34 @@
+{
+  "project": "Highly rated TV series from metadata",
+  "participants": [
+    "Bekzat Rashiduly",
+    "Gapar Galym"
+  ],
+  "group": "SE-2418",
+  "direction": "40. TV series",
+  "task": "Binary classification",
+  "target_threshold": 8.0,
+  "snapshot": "midterm_2026-10-06",
+  "seed": 42,
+  "expected_stages": [
+    "midterm",
+    "endterm",
+    "final"
+  ],
+  "features": [
+    "premiere_year",
+    "runtime_minutes",
+    "network",
+    "web_channel",
+    "broadcast_country",
+    "distribution",
+    "genres"
+  ],
+  "future_text_feature": "plot_summary",
+  "roles": {
+    "Bekzat Rashiduly": "Data/source checks, models, results and errors",
+    "Gapar Galym": "Data preparation/exploration and presentation"
+  },
+  "ai_assistance": "OpenAI Codex - collection/preparation code, notebook, experiments, calculations, slides and checks",
+  "preservation_policy": "Keep raw snapshot, cleaned cohort, labels and split IDs immutable. Reuse the exact split for later stages."
+}

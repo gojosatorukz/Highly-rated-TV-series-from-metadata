@@ -1,0 +1,302 @@
+{
+  "source": "TVmaze, https://www.tvmaze.com",
+  "license": "CC BY-SA 4.0",
+  "collection_date": "2026-10-06",
+  "raw_rows": 14055,
+  "clean_rows": 2339,
+  "positive_rows": 404,
+  "positive_share": 0.17272338606241983,
+  "train_rows": 1871,
+  "test_rows": 468,
+  "train_positive_rows": 323,
+  "test_positive_rows": 81,
+  "winner": "SVM",
+  "confusion_matrix": [
+    [
+      268,
+      119
+    ],
+    [
+      40,
+      41
+    ]
+  ],
+  "features": [
+    "premiere_year",
+    "runtime_minutes",
+    "network",
+    "web_channel",
+    "broadcast_country",
+    "distribution",
+    "genres"
+  ],
+  "models": [
+    {
+      "model": "Dummy majority",
+      "cv_f1_mean": 0.0,
+      "cv_f1_std": 0.0,
+      "cv_precision_mean": 0.0,
+      "cv_precision_std": 0.0,
+      "cv_recall_mean": 0.0,
+      "cv_recall_std": 0.0,
+      "cv_roc_auc_mean": 0.5,
+      "cv_roc_auc_std": 0.0,
+      "cv_average_precision_mean": 0.17263458110516935,
+      "cv_average_precision_std": 0.0013927946391509662,
+      "cv_balanced_accuracy_mean": 0.5,
+      "cv_balanced_accuracy_std": 0.0,
+      "cv_accuracy_mean": 0.8273654188948306,
+      "cv_accuracy_std": 0.0013927946391509628,
+      "test_f1": 0.0,
+      "test_precision": 0.0,
+      "test_recall": 0.0,
+      "test_roc_auc": 0.5,
+      "test_average_precision": 0.17307692307692307,
+      "test_balanced_accuracy": 0.5,
+      "test_accuracy": 0.8269230769230769
+    },
+    {
+      "model": "Dummy stratified",
+      "cv_f1_mean": 0.15480564929383828,
+      "cv_f1_std": 0.03424567367032287,
+      "cv_precision_mean": 0.15806451612903225,
+      "cv_precision_std": 0.034966908691417414,
+      "cv_recall_mean": 0.15168269230769232,
+      "cv_recall_std": 0.03356702399457049,
+      "cv_roc_auc_mean": 0.4915402708850289,
+      "cv_roc_auc_std": 0.020241055846367564,
+      "cv_average_precision_mean": 0.17135813357262603,
+      "cv_average_precision_std": 0.005060193599753992,
+      "cv_balanced_accuracy_mean": 0.49154027088502905,
+      "cv_balanced_accuracy_std": 0.020241055846367595,
+      "cv_accuracy_mean": 0.7140591800356506,
+      "cv_accuracy_std": 0.011415024028345263,
+      "test_f1": 0.15,
+      "test_precision": 0.1518987341772152,
+      "test_recall": 0.14814814814814814,
+      "test_roc_auc": 0.48751076658053405,
+      "test_average_precision": 0.16993941361029968,
+      "test_balanced_accuracy": 0.487510766580534,
+      "test_accuracy": 0.7094017094017094
+    },
+    {
+      "model": "Decision Tree",
+      "cv_f1_mean": 0.3606893969765649,
+      "cv_f1_std": 0.013338978090070838,
+      "cv_precision_mean": 0.24200339311459357,
+      "cv_precision_std": 0.01479908891689478,
+      "cv_recall_mean": 0.7279326923076923,
+      "cv_recall_std": 0.12787404163921592,
+      "cv_roc_auc_mean": 0.6629956927011813,
+      "cv_roc_auc_std": 0.01715754271259295,
+      "cv_average_precision_mean": 0.26748136912180254,
+      "cv_average_precision_std": 0.004475506839998385,
+      "cv_balanced_accuracy_mean": 0.6233472836212227,
+      "cv_balanced_accuracy_std": 0.01565252759281269,
+      "cv_accuracy_mean": 0.5547636363636363,
+      "cv_accuracy_std": 0.07636055117421457,
+      "test_f1": 0.2996941896024465,
+      "test_precision": 0.1991869918699187,
+      "test_recall": 0.6049382716049383,
+      "test_roc_auc": 0.5631001371742113,
+      "test_average_precision": 0.23355542549084082,
+      "test_balanced_accuracy": 0.5479471719781798,
+      "test_accuracy": 0.5106837606837606
+    },
+    {
+      "model": "KNN",
+      "cv_f1_mean": 0.15712865250839933,
+      "cv_f1_std": 0.02831911020782627,
+      "cv_precision_mean": 0.44953585887796416,
+      "cv_precision_std": 0.1433595954474444,
+      "cv_recall_mean": 0.09605769230769232,
+      "cv_recall_std": 0.01748093715540906,
+      "cv_roc_auc_mean": 0.6820949741321158,
+      "cv_roc_auc_std": 0.04652372226358831,
+      "cv_average_precision_mean": 0.30639670448215073,
+      "cv_average_precision_std": 0.064522376456539,
+      "cv_balanced_accuracy_mean": 0.534781116745766,
+      "cv_balanced_accuracy_std": 0.010720387008339523,
+      "cv_accuracy_mean": 0.8220221033868093,
+      "cv_accuracy_std": 0.010587574596622434,
+      "test_f1": 0.23076923076923078,
+      "test_precision": 0.5217391304347826,
+      "test_recall": 0.14814814814814814,
+      "test_roc_auc": 0.6438574664242191,
+      "test_average_precision": 0.3102938144356501,
+      "test_balanced_accuracy": 0.5598621877691645,
+      "test_accuracy": 0.8290598290598291
+    },
+    {
+      "model": "SVM",
+      "cv_f1_mean": 0.38923969028932837,
+      "cv_f1_std": 0.016758274242530506,
+      "cv_precision_mean": 0.2873743721856491,
+      "cv_precision_std": 0.013612531080760354,
+      "cv_recall_mean": 0.6100480769230769,
+      "cv_recall_std": 0.07251141258878702,
+      "cv_roc_auc_mean": 0.7176559571418247,
+      "cv_roc_auc_std": 0.011477576991722681,
+      "cv_average_precision_mean": 0.3418839571470237,
+      "cv_average_precision_std": 0.02188127966038719,
+      "cv_balanced_accuracy_mean": 0.6464072726195925,
+      "cv_balanced_accuracy_std": 0.017576092781000554,
+      "cv_accuracy_mean": 0.6702131907308377,
+      "cv_accuracy_std": 0.030721941464505118,
+      "test_f1": 0.34024896265560167,
+      "test_precision": 0.25625,
+      "test_recall": 0.5061728395061729,
+      "test_roc_auc": 0.6426771301878967,
+      "test_average_precision": 0.33895518107145206,
+      "test_balanced_accuracy": 0.5993396497272466,
+      "test_accuracy": 0.6602564102564102
+    }
+  ],
+  "genre_summary": [
+    {
+      "genre": "Drama",
+      "count": 1150,
+      "mean": 0.1956521739130435
+    },
+    {
+      "genre": "Comedy",
+      "count": 716,
+      "mean": 0.12988826815642457
+    },
+    {
+      "genre": "Crime",
+      "count": 435,
+      "mean": 0.23448275862068965
+    },
+    {
+      "genre": "Action",
+      "count": 320,
+      "mean": 0.1875
+    },
+    {
+      "genre": "Science-Fiction",
+      "count": 228,
+      "mean": 0.2236842105263158
+    },
+    {
+      "genre": "Adventure",
+      "count": 181,
+      "mean": 0.1712707182320442
+    },
+    {
+      "genre": "Thriller",
+      "count": 164,
+      "mean": 0.22560975609756098
+    },
+    {
+      "genre": "Family",
+      "count": 160,
+      "mean": 0.075
+    },
+    {
+      "genre": "Romance",
+      "count": 160,
+      "mean": 0.1
+    },
+    {
+      "genre": "Mystery",
+      "count": 157,
+      "mean": 0.24203821656050956
+    }
+  ],
+  "examples": [
+    {
+      "show_id": 2024,
+      "name": "Touching Evil",
+      "rating": 7.1,
+      "high_rated": 0,
+      "genres": "[\"Crime\", \"Drama\", \"Thriller\"]",
+      "runtime_minutes": 60.0,
+      "premiere_year": 2004.0,
+      "network": "USA Network",
+      "source_url": "https://www.tvmaze.com/shows/2024/touching-evil",
+      "predicted_high_rated": 1,
+      "score": 1.3116810346706893,
+      "outcome": "False positive"
+    },
+    {
+      "show_id": 471,
+      "name": "The Prisoner",
+      "rating": 6.9,
+      "high_rated": 0,
+      "genres": "[\"Drama\", \"Mystery\", \"Science-Fiction\"]",
+      "runtime_minutes": 60.0,
+      "premiere_year": 2009.0,
+      "network": "AMC",
+      "source_url": "https://www.tvmaze.com/shows/471/the-prisoner",
+      "predicted_high_rated": 1,
+      "score": 1.2277580258660372,
+      "outcome": "False positive"
+    },
+    {
+      "show_id": 318,
+      "name": "Community",
+      "rating": 8.3,
+      "high_rated": 1,
+      "genres": "[\"Comedy\"]",
+      "runtime_minutes": 30.0,
+      "premiere_year": 2009.0,
+      "network": "Unknown",
+      "source_url": "https://www.tvmaze.com/shows/318/community",
+      "predicted_high_rated": 0,
+      "score": -1.6271356387200013,
+      "outcome": "False negative"
+    },
+    {
+      "show_id": 720,
+      "name": "Rules of Engagement",
+      "rating": 8.0,
+      "high_rated": 1,
+      "genres": "[\"Comedy\", \"Romance\"]",
+      "runtime_minutes": 30.0,
+      "premiere_year": 2007.0,
+      "network": "CBS",
+      "source_url": "https://www.tvmaze.com/shows/720/rules-of-engagement",
+      "predicted_high_rated": 0,
+      "score": -1.6160430422375263,
+      "outcome": "False negative"
+    },
+    {
+      "show_id": 2,
+      "name": "Person of Interest",
+      "rating": 8.8,
+      "high_rated": 1,
+      "genres": "[\"Action\", \"Crime\", \"Science-Fiction\"]",
+      "runtime_minutes": 60.0,
+      "premiere_year": 2011.0,
+      "network": "CBS",
+      "source_url": "https://www.tvmaze.com/shows/2/person-of-interest",
+      "predicted_high_rated": 1,
+      "score": 0.015383663609858322,
+      "outcome": "True positive"
+    },
+    {
+      "show_id": 3,
+      "name": "Bitten",
+      "rating": 7.4,
+      "high_rated": 0,
+      "genres": "[\"Drama\", \"Horror\", \"Romance\"]",
+      "runtime_minutes": 60.0,
+      "premiere_year": 2014.0,
+      "network": "CTV Sci-Fi Channel",
+      "source_url": "https://www.tvmaze.com/shows/3/bitten",
+      "predicted_high_rated": 0,
+      "score": -1.0332235469472613,
+      "outcome": "True negative"
+    }
+  ],
+  "conclusion": "SVM was selected using training CV F1. Its CV F1 is 0.389 (SD 0.017); test F1 is 0.340, 0.190 above the stratified chance baseline. Test ROC-AUC is 0.643, precision is 0.256 and recall is 0.506. The structured metadata carry some ranking information if ROC-AUC exceeds 0.5, while the confusion matrix quantifies practical mistakes. The proposed use for unrated series requires a separate validation study.",
+  "versions": {
+    "python": "3.12.14",
+    "numpy": "2.5.2",
+    "pandas": "2.3.3",
+    "scikit-learn": "1.9.0"
+  },
+  "clean_csv_sha256": "85913929c85bbd42b68b54cdc3896eab61213eff68f0188edce0a15b71ff770b",
+  "split_sha256": "a3b43bfe6f5ba098bc529cf753213e218ca682b65a4231e58b12e81e363ea02b"
+}

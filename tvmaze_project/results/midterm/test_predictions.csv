@@ -1,0 +1,469 @@
+show_id,name,rating,high_rated,genres,runtime_minutes,premiere_year,network,source_url,predicted_high_rated,score,outcome
+2,Person of Interest,8.8,1,"[""Action"", ""Crime"", ""Science-Fiction""]",60.0,2011.0,CBS,https://www.tvmaze.com/shows/2/person-of-interest,1,0.015383663609858322,True positive
+3,Bitten,7.4,0,"[""Drama"", ""Horror"", ""Romance""]",60.0,2014.0,CTV Sci-Fi Channel,https://www.tvmaze.com/shows/3/bitten,0,-1.0332235469472613,True negative
+5,True Detective,8.1,1,"[""Crime"", ""Drama"", ""Thriller""]",60.0,2014.0,HBO,https://www.tvmaze.com/shows/5/true-detective,1,0.8506728582068943,True positive
+13,The Flash,7.5,0,"[""Action"", ""Drama"", ""Science-Fiction""]",60.0,2014.0,The CW,https://www.tvmaze.com/shows/13/the-flash,0,-0.27981972151389656,True negative
+23,Once Upon a Time in Wonderland,6.9,0,"[""Adventure"", ""Drama"", ""Fantasy""]",60.0,2013.0,ABC,https://www.tvmaze.com/shows/23/once-upon-a-time-in-wonderland,0,-1.3896139514665,True negative
+24,Hawaii Five-0,7.7,0,"[""Action"", ""Crime"", ""Drama""]",60.0,2010.0,CBS,https://www.tvmaze.com/shows/24/hawaii-five-0,1,0.3414892821180202,False positive
+29,Vikings,8.6,1,"[""Action"", ""Drama"", ""History""]",60.0,2013.0,History,https://www.tvmaze.com/shows/29/vikings,1,0.07287240429976166,True positive
+32,Fargo,8.6,1,"[""Comedy"", ""Crime"", ""Drama""]",60.0,2014.0,FX,https://www.tvmaze.com/shows/32/fargo,1,0.49634497978020153,True positive
+38,Z Nation,7.2,0,"[""Action"", ""Horror"", ""Science-Fiction""]",60.0,2014.0,Syfy,https://www.tvmaze.com/shows/38/z-nation,0,-0.18412485159058506,True negative
+39,Resurrection,7.1,0,"[""Drama"", ""Mystery"", ""Science-Fiction""]",60.0,2014.0,ABC,https://www.tvmaze.com/shows/39/resurrection,0,-0.1594012546400162,True negative
+45,NCIS: New Orleans,7.5,0,"[""Action"", ""Crime"", ""Drama""]",60.0,2014.0,CBS,https://www.tvmaze.com/shows/45/ncis-new-orleans,1,0.23757432814907647,False positive
+51,The Knick,8.3,1,"[""Drama"", ""Medical""]",60.0,2014.0,Cinemax,https://www.tvmaze.com/shows/51/the-knick,0,-0.7010492025464836,False negative
+57,black-ish,6.2,0,"[""Comedy"", ""Family""]",30.0,2014.0,ABC,https://www.tvmaze.com/shows/57/black-ish,0,-1.327316546560461,True negative
+62,The Originals,8.3,1,"[""Drama"", ""Romance"", ""Supernatural""]",60.0,2013.0,The CW,https://www.tvmaze.com/shows/62/the-originals,0,-0.573359259154915,False negative
+63,The Vampire Diaries,7.9,0,"[""Drama"", ""Romance"", ""Supernatural""]",60.0,2009.0,The CW,https://www.tvmaze.com/shows/63/the-vampire-diaries,0,-0.30671416110208144,True negative
+66,The Big Bang Theory,8.0,1,"[""Comedy""]",30.0,2007.0,CBS,https://www.tvmaze.com/shows/66/the-big-bang-theory,0,-1.5150452682115347,False negative
+73,The Walking Dead,7.9,0,"[""Action"", ""Drama"", ""Horror""]",,2010.0,Unknown,https://www.tvmaze.com/shows/73/the-walking-dead,0,-0.9318967449806117,True negative
+82,Game of Thrones,8.9,1,"[""Adventure"", ""Drama"", ""Fantasy""]",60.0,2011.0,HBO,https://www.tvmaze.com/shows/82/game-of-thrones,0,-0.10773987900061431,False negative
+95,Falling Skies,7.6,0,"[""Action"", ""Drama"", ""Science-Fiction""]",60.0,2011.0,TNT,https://www.tvmaze.com/shows/95/falling-skies,1,0.6681810321498428,False positive
+124,2 Broke Girls,7.3,0,"[""Comedy""]",30.0,2011.0,CBS,https://www.tvmaze.com/shows/124/2-broke-girls,0,-1.6687168163951345,True negative
+143,Silicon Valley,8.4,1,"[""Comedy""]",30.0,2014.0,HBO,https://www.tvmaze.com/shows/143/silicon-valley,0,-1.1305868019610146,False negative
+150,Shameless,8.4,1,"[""Comedy"", ""Drama"", ""Family""]",60.0,2011.0,Paramount+ with Showtime,https://www.tvmaze.com/shows/150/shameless,0,-0.13352209676036386,False negative
+154,Sanctuary,8.0,1,"[""Adventure"", ""Drama"", ""Science-Fiction""]",60.0,2008.0,Syfy,https://www.tvmaze.com/shows/154/sanctuary,1,0.7827229290209589,True positive
+159,State of Affairs,6.5,0,"[""Drama"", ""Thriller""]",60.0,2014.0,NBC,https://www.tvmaze.com/shows/159/state-of-affairs,0,-0.715210565089394,True negative
+171,How I Met Your Mother,7.8,0,"[""Comedy"", ""Drama"", ""Romance""]",30.0,2005.0,CBS,https://www.tvmaze.com/shows/171/how-i-met-your-mother,0,-1.607794624940033,True negative
+185,Salem,6.9,0,"[""Drama"", ""Supernatural"", ""Thriller""]",60.0,2014.0,NewsNation,https://www.tvmaze.com/shows/185/salem,1,0.1789683105528211,False positive
+188,Believe,7.3,0,"[""Action"", ""Drama"", ""Fantasy""]",60.0,2014.0,NBC,https://www.tvmaze.com/shows/188/believe,0,-0.8018528658034616,True negative
+194,Hannibal,8.2,1,"[""Crime"", ""Drama"", ""Horror""]",60.0,2013.0,NBC,https://www.tvmaze.com/shows/194/hannibal,0,-0.4994606126167143,False negative
+196,The Following,7.0,0,"[""Crime"", ""Drama"", ""Thriller""]",60.0,2013.0,FOX,https://www.tvmaze.com/shows/196/the-following,1,0.10036889267553718,False positive
+197,Da Vinci's Demons,8.0,1,"[""Drama"", ""Horror""]",60.0,2013.0,Unknown,https://www.tvmaze.com/shows/197/da-vincis-demons,0,-1.332979863591389,False negative
+211,666 Park Avenue,6.6,0,"[""Drama"", ""Mystery"", ""Supernatural""]",60.0,2012.0,ABC,https://www.tvmaze.com/shows/211/666-park-avenue,1,0.3656863855023759,False positive
+224,Twisted,7.3,0,"[""Drama"", ""Mystery"", ""Thriller""]",60.0,2013.0,Freeform,https://www.tvmaze.com/shows/224/twisted,0,-1.049535398755801,True negative
+225,Ravenswood,6.9,0,"[""Drama"", ""Horror""]",60.0,2013.0,Freeform,https://www.tvmaze.com/shows/225/ravenswood,0,-1.769055637608695,True negative
+233,Awake,7.4,0,"[""Drama"", ""Fantasy"", ""Thriller""]",60.0,2012.0,NBC,https://www.tvmaze.com/shows/233/awake,0,-0.9865573680727138,True negative
+237,Revolution,7.6,0,"[""Action"", ""Adventure"", ""Science-Fiction""]",60.0,2012.0,NBC,https://www.tvmaze.com/shows/237/revolution,1,0.029768932700530264,False positive
+258,Glue,7.7,0,"[""Drama""]",60.0,2014.0,E4,https://www.tvmaze.com/shows/258/glue,0,-1.3561535430171339,True negative
+268,Package Deal,6.2,0,"[""Comedy""]",30.0,2013.0,Citytv,https://www.tvmaze.com/shows/268/package-deal,0,-1.0000775723733046,True negative
+275,Ali G: Rezurection,6.0,0,"[""Comedy""]",30.0,2014.0,FXX,https://www.tvmaze.com/shows/275/ali-g-rezurection,0,-1.3135426508468564,True negative
+276,New Tricks,7.8,0,"[""Comedy"", ""Crime"", ""Drama""]",60.0,2004.0,BBC One,https://www.tvmaze.com/shows/276/new-tricks,1,1.1340175961843884,False positive
+280,Franklin & Bash,7.2,0,"[""Comedy"", ""Drama"", ""Legal""]",60.0,2011.0,TNT,https://www.tvmaze.com/shows/280/franklin-bash,0,-0.29857348685078766,True negative
+299,Power,7.9,0,"[""Crime"", ""Drama""]",60.0,2014.0,STARZ,https://www.tvmaze.com/shows/299/power,1,0.3490040036357434,False positive
+300,Murder in the First,7.8,0,"[""Crime"", ""Drama"", ""Mystery""]",60.0,2014.0,TNT,https://www.tvmaze.com/shows/300/murder-in-the-first,0,-0.13907428147357553,True negative
+308,Matador,6.9,0,"[""Action"", ""Drama""]",60.0,2014.0,El Rey Network,https://www.tvmaze.com/shows/308/matador,0,-0.11502411414285447,True negative
+318,Community,8.3,1,"[""Comedy""]",30.0,2009.0,Unknown,https://www.tvmaze.com/shows/318/community,0,-1.6271356387200013,False negative
+335,Sherlock,8.9,1,"[""Crime"", ""Drama"", ""Mystery""]",90.0,2010.0,BBC One,https://www.tvmaze.com/shows/335/sherlock,1,0.23414971048742023,True positive
+348,Melissa & Joey,7.7,0,"[""Comedy"", ""Family""]",30.0,2010.0,Freeform,https://www.tvmaze.com/shows/348/melissa-joey,0,-1.6398267604503325,True negative
+349,The Wrong Mans,7.7,0,"[""Comedy"", ""Crime"", ""Thriller""]",30.0,2013.0,BBC Two,https://www.tvmaze.com/shows/349/the-wrong-mans,1,0.7704453817863494,False positive
+352,The Exes,7.3,0,"[""Comedy""]",30.0,2011.0,TV Land,https://www.tvmaze.com/shows/352/the-exes,0,-1.1194379131956032,True negative
+353,Line of Duty,8.6,1,"[""Crime"", ""Drama"", ""Thriller""]",60.0,2012.0,BBC One,https://www.tvmaze.com/shows/353/line-of-duty,1,0.7417570608440657,True positive
+368,Red Dwarf,7.9,0,"[""Comedy"", ""Science-Fiction""]",,1988.0,U&Dave,https://www.tvmaze.com/shows/368/red-dwarf,1,0.1807334105627888,False positive
+371,The Red Road,7.4,0,"[""Crime"", ""Drama"", ""Family""]",60.0,2014.0,SundanceTV,https://www.tvmaze.com/shows/371/the-red-road,0,-0.647906569896893,True negative
+372,See Dad Run,5.8,0,"[""Comedy""]",30.0,2012.0,nick@nite,https://www.tvmaze.com/shows/372/see-dad-run,0,-1.1840746406739877,True negative
+373,Moone Boy,7.4,0,"[""Comedy""]",30.0,2012.0,Sky Showcase,https://www.tvmaze.com/shows/373/moone-boy,0,-1.0295800555759338,True negative
+377,The Musketeers,8.0,1,"[""Action"", ""Adventure"", ""Drama""]",60.0,2014.0,BBC One,https://www.tvmaze.com/shows/377/the-musketeers,0,-0.4636717943629209,False negative
+380,Birds of a Feather,7.3,0,"[""Comedy""]",30.0,1989.0,ITV1,https://www.tvmaze.com/shows/380/birds-of-a-feather,1,0.5159670835055213,False positive
+383,Peep Show,7.9,0,"[""Comedy""]",30.0,2003.0,Channel 4,https://www.tvmaze.com/shows/383/peep-show,1,0.9187728596106466,False positive
+386,Yonderland,7.8,0,"[""Comedy"", ""Fantasy""]",30.0,2013.0,Sky Showcase,https://www.tvmaze.com/shows/386/yonderland,0,-1.3607346912814873,True negative
+392,Hunted,8.0,1,"[""Action"", ""Drama"", ""Thriller""]",60.0,2012.0,BBC One,https://www.tvmaze.com/shows/392/hunted,1,0.21562817111919086,True positive
+404,Magic City,7.9,0,"[""Crime"", ""Drama"", ""Mystery""]",60.0,2012.0,STARZ,https://www.tvmaze.com/shows/404/magic-city,1,0.6791125162278978,False positive
+408,Jane by Design,7.8,0,"[""Comedy"", ""Drama""]",60.0,2012.0,Freeform,https://www.tvmaze.com/shows/408/jane-by-design,0,-1.336884555192315,True negative
+415,Olive Kitteridge,8.0,1,"[""Drama""]",60.0,2014.0,HBO,https://www.tvmaze.com/shows/415/olive-kitteridge,1,0.2126495512508768,True positive
+425,The Passing Bells,7.0,0,"[""Drama"", ""History"", ""War""]",30.0,2014.0,BBC One,https://www.tvmaze.com/shows/425/the-passing-bells,0,-1.3413632047402417,True negative
+431,Friends,8.5,1,"[""Comedy"", ""Romance""]",30.0,1994.0,NBC,https://www.tvmaze.com/shows/431/friends,0,-0.5130828445390095,False negative
+435,Smallville,8.1,1,"[""Adventure"", ""Drama"", ""Science-Fiction""]",60.0,2001.0,The CW,https://www.tvmaze.com/shows/435/smallville,0,-0.010060857703126855,False negative
+438,The Adventures of Sinbad,6.0,0,"[""Action"", ""Adventure""]",60.0,1996.0,Syndication,https://www.tvmaze.com/shows/438/the-adventures-of-sinbad,0,-1.1717667242733625,True negative
+440,Everwood,7.6,0,"[""Drama"", ""Family"", ""Romance""]",60.0,2002.0,The WB,https://www.tvmaze.com/shows/440/everwood,0,-0.4322564638783373,True negative
+455,Blade: The Series,6.8,0,"[""Action"", ""Supernatural""]",60.0,2006.0,Paramount Network,https://www.tvmaze.com/shows/455/blade-the-series,1,0.5517510300008595,False positive
+460,Adventure Inc.,7.3,0,"[""Action"", ""Adventure""]",60.0,2002.0,Syndication,https://www.tvmaze.com/shows/460/adventure-inc,0,-1.0729144823940524,True negative
+465,Band of Brothers,9.0,1,"[""Action"", ""Drama"", ""War""]",60.0,2001.0,HBO,https://www.tvmaze.com/shows/465/band-of-brothers,1,1.3792296273884868,True positive
+469,ReGenesis,7.8,0,"[""Drama"", ""Mystery"", ""Science-Fiction""]",60.0,2004.0,Crave,https://www.tvmaze.com/shows/469/regenesis,1,0.9272127609452298,False positive
+471,The Prisoner,6.9,0,"[""Drama"", ""Mystery"", ""Science-Fiction""]",60.0,2009.0,AMC,https://www.tvmaze.com/shows/471/the-prisoner,1,1.2277580258660372,False positive
+485,Day Break,7.8,0,"[""Drama"", ""Science-Fiction"", ""Thriller""]",60.0,2006.0,ABC,https://www.tvmaze.com/shows/485/day-break,0,-0.08155449239544,True negative
+490,Star Trek,8.4,1,"[""Action"", ""Adventure"", ""Science-Fiction""]",60.0,1966.0,NBC,https://www.tvmaze.com/shows/490/star-trek,0,-0.9176642359158412,False negative
+491,Star Trek: The Next Generation,8.7,1,"[""Action"", ""Adventure"", ""Science-Fiction""]",60.0,1987.0,Syndication,https://www.tvmaze.com/shows/491/star-trek-the-next-generation,0,-0.9798335366813276,False negative
+493,Star Trek: Deep Space Nine,8.4,1,"[""Action"", ""Adventure"", ""Science-Fiction""]",60.0,1993.0,Syndication,https://www.tvmaze.com/shows/493/star-trek-deep-space-nine,0,-0.7551610711000845,False negative
+499,Married... with Children,8.2,1,"[""Comedy"", ""Family""]",30.0,1987.0,FOX,https://www.tvmaze.com/shows/499/married-with-children,0,-0.8091523946004904,False negative
+507,Angels in America,8.0,1,"[""Drama"", ""Fantasy""]",60.0,2003.0,HBO,https://www.tvmaze.com/shows/507/angels-in-america,1,0.38019646600204837,True positive
+508,The Grid,7.9,0,"[""Drama"", ""Thriller""]",60.0,2004.0,TNT,https://www.tvmaze.com/shows/508/the-grid,1,0.0759935413071042,False positive
+515,The Borgias,7.9,0,"[""Drama"", ""History"", ""Romance""]",60.0,2011.0,Paramount+ with Showtime,https://www.tvmaze.com/shows/515/the-borgias,1,0.21976746565370653,False positive
+526,The Office,8.5,1,"[""Comedy""]",30.0,2005.0,NBC,https://www.tvmaze.com/shows/526/the-office,0,-0.6028997077420447,False negative
+527,The Sopranos,8.8,1,"[""Crime"", ""Drama""]",60.0,1999.0,HBO,https://www.tvmaze.com/shows/527/the-sopranos,1,1.3719060852512643,True positive
+532,Scrubs,8.4,1,"[""Comedy"", ""Drama"", ""Medical""]",30.0,2001.0,ABC,https://www.tvmaze.com/shows/532/scrubs,0,-0.7907394779557471,False negative
+533,Instant Mom,7.0,0,"[""Comedy"", ""Family""]",30.0,2013.0,TV Land,https://www.tvmaze.com/shows/533/instant-mom,0,-1.2003839642439615,True negative
+547,ER,7.9,0,"[""Drama"", ""Medical""]",60.0,1994.0,NBC,https://www.tvmaze.com/shows/547/er,1,0.5224937528168604,False positive
+552,The King of Queens,7.2,0,"[""Comedy"", ""Family""]",30.0,1998.0,CBS,https://www.tvmaze.com/shows/552/the-king-of-queens,0,-1.5548891432979437,True negative
+561,La Femme Nikita,7.7,0,"[""Action"", ""Drama"", ""Thriller""]",60.0,1997.0,USA Network,https://www.tvmaze.com/shows/561/la-femme-nikita,1,1.073191225898682,False positive
+564,Nip/Tuck,7.8,0,"[""Drama"", ""Medical""]",60.0,2003.0,FX,https://www.tvmaze.com/shows/564/niptuck,1,0.5855270358607606,False positive
+587,That '70s Show,8.0,1,"[""Comedy""]",30.0,1998.0,FOX,https://www.tvmaze.com/shows/587/that-70s-show,0,-0.6290505723954882,False negative
+594,Henry Danger,6.6,0,"[""Comedy"", ""Family"", ""Science-Fiction""]",30.0,2014.0,Nickelodeon,https://www.tvmaze.com/shows/594/henry-danger,0,-1.0177853391943892,True negative
+609,The Astronaut Wives Club,7.2,0,"[""Drama"", ""History""]",60.0,2015.0,ABC,https://www.tvmaze.com/shows/609/the-astronaut-wives-club,0,-0.9206378364492973,True negative
+637,Girlfriends' Guide to Divorce,7.5,0,"[""Comedy"", ""Drama"", ""Romance""]",60.0,2014.0,Bravo,https://www.tvmaze.com/shows/637/girlfriends-guide-to-divorce,0,-0.8467739930477514,True negative
+666,Drop Dead Diva,7.8,0,"[""Comedy"", ""Drama"", ""Fantasy""]",60.0,2009.0,Lifetime,https://www.tvmaze.com/shows/666/drop-dead-diva,0,-0.7827860725469732,True negative
+680,Airwolf,7.4,0,"[""Action"", ""Adventure"", ""Science-Fiction""]",60.0,1984.0,USA Network,https://www.tvmaze.com/shows/680/airwolf,1,0.1658691856650817,False positive
+682,Numb3rs,7.9,0,"[""Action"", ""Crime"", ""Drama""]",60.0,2005.0,CBS,https://www.tvmaze.com/shows/682/numb3rs,1,0.34824803440901314,False positive
+716,Spartacus,8.5,1,"[""Action"", ""Drama"", ""History""]",60.0,2010.0,STARZ,https://www.tvmaze.com/shows/716/spartacus,1,1.1514483232991435,True positive
+717,Quantum Leap,8.0,1,"[""Action"", ""Drama"", ""Science-Fiction""]",60.0,1989.0,NBC,https://www.tvmaze.com/shows/717/quantum-leap,1,0.23709270319539721,True positive
+720,Rules of Engagement,8.0,1,"[""Comedy"", ""Romance""]",30.0,2007.0,CBS,https://www.tvmaze.com/shows/720/rules-of-engagement,0,-1.6160430422375263,False negative
+769,Better Off Ted,8.2,1,"[""Comedy""]",30.0,2009.0,ABC,https://www.tvmaze.com/shows/769/better-off-ted,0,-1.3603226375950983,False negative
+779,Brothers & Sisters,7.7,0,"[""Drama"", ""Family"", ""Romance""]",60.0,2006.0,ABC,https://www.tvmaze.com/shows/779/brothers-sisters,0,-0.9570506219001926,True negative
+780,Flashpoint,7.7,0,"[""Action"", ""Adventure"", ""Crime""]",60.0,2008.0,CTV,https://www.tvmaze.com/shows/780/flashpoint,1,0.123242365425845,False positive
+787,The Twilight Zone,8.9,1,"[""Mystery"", ""Science-Fiction"", ""Supernatural""]",30.0,1959.0,CBS,https://www.tvmaze.com/shows/787/the-twilight-zone,1,0.35534824434996665,True positive
+789,Merlin,7.9,0,"[""Adventure"", ""Fantasy"", ""Science-Fiction""]",60.0,2008.0,BBC One,https://www.tvmaze.com/shows/789/merlin,0,-0.1966008765018769,True negative
+791,Misfits,7.8,0,"[""Comedy"", ""Drama"", ""Science-Fiction""]",60.0,2009.0,E4,https://www.tvmaze.com/shows/791/misfits,1,0.44265214940451614,False positive
+794,Power Rangers,6.5,0,"[""Action"", ""Children"", ""Science-Fiction""]",,1993.0,Unknown,https://www.tvmaze.com/shows/794/power-rangers,1,0.6693972794512065,False positive
+806,The Bold and the Beautiful,5.5,0,"[""Drama"", ""Family"", ""Romance""]",30.0,1987.0,CBS,https://www.tvmaze.com/shows/806/the-bold-and-the-beautiful,0,-2.0809601838924046,True negative
+807,Wizards of Waverly Place,7.8,0,"[""Comedy"", ""Family"", ""Fantasy""]",30.0,2007.0,Disney Channel,https://www.tvmaze.com/shows/807/wizards-of-waverly-place,0,-1.4867060749454057,True negative
+813,Without a Trace,7.7,0,"[""Crime"", ""Drama"", ""Thriller""]",60.0,2002.0,CBS,https://www.tvmaze.com/shows/813/without-a-trace,1,0.09518887151902411,False positive
+817,Big Love,7.7,0,"[""Drama""]",60.0,2006.0,HBO,https://www.tvmaze.com/shows/817/big-love,1,0.8499537750858532,False positive
+818,"Beverly Hills, 90210",6.7,0,"[""Drama"", ""Romance""]",60.0,1990.0,FOX,https://www.tvmaze.com/shows/818/beverly-hills-90210,1,0.1456215645239357,False positive
+820,Hung,6.9,0,"[""Comedy"", ""Drama""]",30.0,2009.0,HBO,https://www.tvmaze.com/shows/820/hung,0,-0.8949451824920394,True negative
+823,The L Word,7.3,0,"[""Drama"", ""Romance""]",60.0,2004.0,Paramount+ with Showtime,https://www.tvmaze.com/shows/823/the-l-word,1,0.12220083156397574,False positive
+827,The Cleaner,6.9,0,"[""Action"", ""Drama""]",60.0,2008.0,A&E,https://www.tvmaze.com/shows/827/the-cleaner,1,0.014272723559257433,False positive
+858,Outcasts,7.7,0,"[""Drama"", ""Science-Fiction""]",60.0,2011.0,BBC One,https://www.tvmaze.com/shows/858/outcasts,1,0.3090735211036613,False positive
+870,Battlestar Galactica: Blood & Chrome,8.0,1,"[""Action"", ""Drama"", ""Science-Fiction""]",10.0,2012.0,Syfy,https://www.tvmaze.com/shows/870/battlestar-galactica-blood-chrome,0,-1.295280647012995,False negative
+915,The Suite Life of Zack and Cody,7.5,0,"[""Children"", ""Comedy"", ""Family""]",25.0,2005.0,Disney Channel,https://www.tvmaze.com/shows/915/the-suite-life-of-zack-and-cody,0,-1.0726052104559014,True negative
+937,Dark Blue,7.9,0,"[""Action"", ""Crime"", ""Drama""]",60.0,2009.0,TNT,https://www.tvmaze.com/shows/937/dark-blue,1,0.5633925194450873,False positive
+950,Family Ties,7.3,0,"[""Comedy"", ""Drama"", ""Family""]",30.0,1982.0,NBC,https://www.tvmaze.com/shows/950/family-ties,0,-0.7446251730452677,True negative
+956,"Magnum, P.I.",7.6,0,"[""Action"", ""Drama"", ""Mystery""]",60.0,1980.0,CBS,https://www.tvmaze.com/shows/956/magnum-pi,0,-0.5041422953478207,True negative
+962,Hawaii Five-O,7.2,0,"[""Action"", ""Adventure"", ""Crime""]",60.0,1968.0,CBS,https://www.tvmaze.com/shows/962/hawaii-five-o,0,-1.0345512409280435,True negative
+967,Deception,7.6,0,"[""Crime"", ""Drama"", ""Mystery""]",60.0,2013.0,NBC,https://www.tvmaze.com/shows/967/deception,1,0.10943472908262952,False positive
+971,Chaos,7.5,0,"[""Comedy"", ""Drama"", ""Espionage""]",60.0,2011.0,CBS,https://www.tvmaze.com/shows/971/chaos,0,-0.16239682495953245,True negative
+976,Sabrina the Teenage Witch,7.5,0,"[""Comedy"", ""Family"", ""Fantasy""]",30.0,1996.0,The WB,https://www.tvmaze.com/shows/976/sabrina-the-teenage-witch,0,-1.2116779668929532,True negative
+982,Jack of All Trades,7.5,0,"[""Action"", ""Adventure"", ""Comedy""]",30.0,2000.0,Syndication,https://www.tvmaze.com/shows/982/jack-of-all-trades,0,-1.539986173736152,True negative
+985,The New Adventures of Old Christine,7.4,0,"[""Comedy"", ""Family""]",30.0,2006.0,CBS,https://www.tvmaze.com/shows/985/the-new-adventures-of-old-christine,0,-1.5504625923629682,True negative
+1002,Camelot,6.8,0,"[""Drama"", ""Fantasy""]",60.0,2011.0,STARZ,https://www.tvmaze.com/shows/1002/camelot,0,-0.5872623368733177,True negative
+1009,Do No Harm,7.8,0,"[""Drama"", ""Horror"", ""Medical""]",60.0,2013.0,NBC,https://www.tvmaze.com/shows/1009/do-no-harm,0,-0.8002538338748435,True negative
+1014,The Pillars of the Earth,7.6,0,"[""Drama"", ""History"", ""Romance""]",60.0,2010.0,STARZ,https://www.tvmaze.com/shows/1014/the-pillars-of-the-earth,1,0.20667011564685223,False positive
+1038,Zoey 101,5.3,0,"[""Comedy"", ""Drama"", ""Family""]",30.0,2005.0,Nickelodeon,https://www.tvmaze.com/shows/1038/zoey-101,0,-1.223940700839785,True negative
+1044,Whitechapel,7.9,0,"[""Crime"", ""Drama"", ""Mystery""]",60.0,2009.0,ITV1,https://www.tvmaze.com/shows/1044/whitechapel,1,0.1386007619918121,False positive
+1047,Upstairs Downstairs,7.7,0,"[""Drama""]",60.0,2010.0,BBC One,https://www.tvmaze.com/shows/1047/upstairs-downstairs,0,-0.3500303439639936,True negative
+1049,Trophy Wife,6.9,0,"[""Comedy""]",30.0,2013.0,ABC,https://www.tvmaze.com/shows/1049/trophy-wife,0,-1.579683820364509,True negative
+1051,The 10th Kingdom,8.0,1,"[""Adventure"", ""Drama"", ""Fantasy""]",120.0,2000.0,NBC,https://www.tvmaze.com/shows/1051/the-10th-kingdom,0,-0.4956471826280125,False negative
+1069,Samantha Who?,7.5,0,"[""Comedy"", ""Romance""]",30.0,2007.0,ABC,https://www.tvmaze.com/shows/1069/samantha-who,0,-1.4034144891440157,True negative
+1074,Bonekickers,7.2,0,"[""Adventure"", ""Drama""]",60.0,2008.0,BBC One,https://www.tvmaze.com/shows/1074/bonekickers,0,-0.31665271990813054,True negative
+1096,Drive,7.7,0,"[""Action"", ""Adventure"", ""Drama""]",60.0,2007.0,FOX,https://www.tvmaze.com/shows/1096/drive,1,0.5664213943862187,False positive
+1104,"I, Claudius",8.0,1,"[""Drama"", ""History""]",50.0,1976.0,BBC Two,https://www.tvmaze.com/shows/1104/i-claudius,1,1.095609341718424,True positive
+1111,Klondike,7.1,0,"[""Adventure"", ""Drama"", ""History""]",60.0,2014.0,Discovery,https://www.tvmaze.com/shows/1111/klondike,0,-0.23468308494935564,True negative
+1118,My Family,7.8,0,"[""Comedy"", ""Family""]",,2000.0,BBC One,https://www.tvmaze.com/shows/1118/my-family,0,-0.21654099939968408,True negative
+1130,Journeyman,7.6,0,"[""Drama"", ""Mystery"", ""Science-Fiction""]",60.0,2007.0,NBC,https://www.tvmaze.com/shows/1130/journeyman,1,0.3267814827098127,False positive
+1131,Neverland,6.6,0,"[""Adventure"", ""Fantasy""]",120.0,2011.0,Syfy,https://www.tvmaze.com/shows/1131/neverland,0,-1.2977267366256946,True negative
+1132,Neverwhere,6.0,0,"[""Drama"", ""Fantasy""]",30.0,1996.0,BBC Two,https://www.tvmaze.com/shows/1132/neverwhere,0,-0.22464906715380856,True negative
+1133,Planet of the Apes,7.1,0,"[""Adventure"", ""Drama"", ""Science-Fiction""]",60.0,1974.0,CBS,https://www.tvmaze.com/shows/1133/planet-of-the-apes,0,-0.7597227416656696,True negative
+1160,Out of Practice,7.5,0,"[""Comedy""]",30.0,2005.0,CBS,https://www.tvmaze.com/shows/1160/out-of-practice,0,-1.4432722541168277,True negative
+1211,Mixology,7.3,0,"[""Comedy"", ""Romance""]",30.0,2014.0,ABC,https://www.tvmaze.com/shows/1211/mixology,0,-1.757621796991994,True negative
+1220,Wallander,7.9,0,"[""Crime"", ""Drama""]",90.0,2008.0,BBC One,https://www.tvmaze.com/shows/1220/wallander,1,0.3171301275421602,False positive
+1235,Low Winter Sun,7.3,0,"[""Crime"", ""Drama""]",60.0,2013.0,AMC,https://www.tvmaze.com/shows/1235/low-winter-sun,1,0.8009354912474482,False positive
+1244,How to Live with Your Parents (for the Rest of Your Life),6.3,0,"[""Comedy""]",30.0,2013.0,ABC,https://www.tvmaze.com/shows/1244/how-to-live-with-your-parents-for-the-rest-of-your-life,0,-1.579683820364509,True negative
+1250,Family Matters,5.8,0,"[""Comedy"", ""Family""]",30.0,1989.0,CBS,https://www.tvmaze.com/shows/1250/family-matters,0,-1.5997258509708756,True negative
+1269,Enlightened,7.0,0,"[""Comedy"", ""Drama""]",30.0,2011.0,HBO,https://www.tvmaze.com/shows/1269/enlightened,0,-1.042859832384561,True negative
+1284,Sports Night,7.3,0,"[""Comedy"", ""Drama"", ""Sports""]",30.0,1998.0,ABC,https://www.tvmaze.com/shows/1284/sports-night,0,-0.518518460464787,True negative
+1294,The Wonder Years,7.6,0,"[""Comedy"", ""Drama"", ""Family""]",30.0,1988.0,ABC,https://www.tvmaze.com/shows/1294/the-wonder-years,0,-0.8762301679746114,True negative
+1305,"The Adventures of Brisco County, Jr.",7.9,0,"[""Adventure"", ""Science-Fiction"", ""Western""]",60.0,1993.0,FOX,https://www.tvmaze.com/shows/1305/the-adventures-of-brisco-county-jr,1,1.060201485085295,False positive
+1306,Adventures of Superman,7.2,0,"[""Action"", ""Adventure"", ""Crime""]",30.0,1952.0,Syndication,https://www.tvmaze.com/shows/1306/adventures-of-superman,0,-0.3406901959143996,True negative
+1313,The Class,7.4,0,"[""Comedy""]",30.0,2006.0,CBS,https://www.tvmaze.com/shows/1313/the-class,0,-1.4786642488828972,True negative
+1315,Combat Hospital,7.9,0,"[""Drama"", ""Medical"", ""War""]",60.0,2011.0,Global,https://www.tvmaze.com/shows/1315/combat-hospital,0,-0.6954598800613484,True negative
+1322,Killer Women,6.6,0,"[""Crime"", ""Drama"", ""Western""]",60.0,2014.0,ABC,https://www.tvmaze.com/shows/1322/killer-women,0,-0.36201487345311034,True negative
+1323,Lois & Clark: The New Adventures of Superman,7.4,0,"[""Action"", ""Adventure"", ""Science-Fiction""]",60.0,1993.0,ABC,https://www.tvmaze.com/shows/1323/lois-clark-the-new-adventures-of-superman,1,0.326870257396983,False positive
+1324,Malibu Country,7.7,0,"[""Comedy""]",30.0,2012.0,ABC,https://www.tvmaze.com/shows/1324/malibu-country,0,-1.5247337796212121,True negative
+1325,Mental,6.6,0,"[""Drama"", ""Medical""]",60.0,2009.0,FOX,https://www.tvmaze.com/shows/1325/mental,0,-0.04201641347223009,True negative
+1367,Sense8,8.1,1,"[""Drama"", ""Science-Fiction"", ""Thriller""]",,2015.0,Unknown,https://www.tvmaze.com/shows/1367/sense8,1,1.1306371476538535,True positive
+1368,Unbreakable Kimmy Schmidt,7.5,0,"[""Comedy""]",,2015.0,Unknown,https://www.tvmaze.com/shows/1368/unbreakable-kimmy-schmidt,0,-0.9639425189689768,True negative
+1375,Touched by an Angel,7.5,0,"[""Drama"", ""Family"", ""Supernatural""]",60.0,1994.0,CBS,https://www.tvmaze.com/shows/1375/touched-by-an-angel,0,-0.4822410563292538,True negative
+1410,The Booth at the End,8.0,1,"[""Drama"", ""Mystery""]",30.0,2010.0,Unknown,https://www.tvmaze.com/shows/1410/the-booth-at-the-end,0,-0.8466463467403101,False negative
+1422,Arctic Air,8.1,1,"[""Action"", ""Adventure"", ""Drama""]",60.0,2012.0,CBC,https://www.tvmaze.com/shows/1422/arctic-air,0,-0.19822947242708489,False negative
+1437,Death in Paradise,7.9,0,"[""Crime"", ""Drama"", ""Mystery""]",60.0,2011.0,BBC One,https://www.tvmaze.com/shows/1437/death-in-paradise,1,0.30631202035764793,False positive
+1439,The Field of Blood,7.3,0,"[""Crime"", ""Drama"", ""Thriller""]",60.0,2011.0,BBC One,https://www.tvmaze.com/shows/1439/the-field-of-blood,1,0.83202309518728,False positive
+1443,Review,8.0,1,"[""Comedy""]",30.0,2014.0,Comedy Central,https://www.tvmaze.com/shows/1443/review,0,-1.3135426508468564,False negative
+1456,Back to You,7.6,0,"[""Comedy""]",30.0,2007.0,FOX,https://www.tvmaze.com/shows/1456/back-to-you,0,-1.1855685271237644,True negative
+1457,Becker,7.8,0,"[""Comedy""]",30.0,1998.0,CBS,https://www.tvmaze.com/shows/1457/becker,0,-1.2254641987653332,True negative
+1475,Hogan's Heroes,7.8,0,"[""Action"", ""Comedy"", ""War""]",30.0,1965.0,CBS,https://www.tvmaze.com/shows/1475/hogans-heroes,1,0.23973290957080728,False positive
+1477,Invasion,7.2,0,"[""Science-Fiction"", ""Supernatural"", ""Thriller""]",60.0,2005.0,ABC,https://www.tvmaze.com/shows/1477/invasion,1,0.40739179803491427,False positive
+1482,Lipstick Jungle,6.6,0,"[""Comedy"", ""Drama"", ""Romance""]",60.0,2008.0,NBC,https://www.tvmaze.com/shows/1482/lipstick-jungle,0,-0.13356512167697782,True negative
+1491,The Partridge Family,7.3,0,"[""Comedy"", ""Music""]",30.0,1970.0,ABC,https://www.tvmaze.com/shows/1491/the-partridge-family,0,-0.06200132541121993,True negative
+1511,"Yes, Dear",7.1,0,"[""Comedy"", ""Family""]",30.0,2000.0,CBS,https://www.tvmaze.com/shows/1511/yes-dear,0,-1.5474287433253984,True negative
+1527,Sean Saves the World,6.4,0,"[""Comedy"", ""Family""]",30.0,2013.0,NBC,https://www.tvmaze.com/shows/1527/sean-saves-the-world,0,-1.0314861440092846,True negative
+1534,Spies of Warsaw,6.6,0,"[""Drama"", ""Espionage"", ""Thriller""]",90.0,2013.0,BBC Four,https://www.tvmaze.com/shows/1534/spies-of-warsaw,0,-0.21587492466770536,True negative
+1606,Yes Minister,8.0,1,"[""Comedy""]",30.0,1980.0,BBC Two,https://www.tvmaze.com/shows/1606/yes-minister,1,1.2187216229072968,True positive
+1619,Danger 5,7.2,0,"[""Action"", ""Comedy"", ""War""]",30.0,2012.0,SBS,https://www.tvmaze.com/shows/1619/danger-5,0,-0.8924260355771896,True negative
+1649,First Wave,7.8,0,"[""Drama"", ""Science-Fiction""]",60.0,1998.0,Syfy,https://www.tvmaze.com/shows/1649/first-wave,1,0.9648563432693233,False positive
+1650,Fresh Meat,8.0,1,"[""Comedy"", ""Drama""]",50.0,2011.0,Channel 4,https://www.tvmaze.com/shows/1650/fresh-meat,1,0.2512001988606166,True positive
+1652,Great Expectations,6.7,0,"[""Drama"", ""Romance""]",40.0,2011.0,BBC One,https://www.tvmaze.com/shows/1652/great-expectations,0,-0.5607112747190889,True negative
+1655,Inside Men,7.8,0,"[""Action"", ""Crime"", ""Drama""]",55.0,2012.0,BBC One,https://www.tvmaze.com/shows/1655/inside-men,1,0.13602604260402118,False positive
+1658,Mortal Kombat: Conquest,5.6,0,"[""Action"", ""Adventure"", ""Fantasy""]",60.0,1998.0,Syndication,https://www.tvmaze.com/shows/1658/mortal-kombat-conquest,0,-1.7308036974442542,True negative
+1707,The Escape Artist,7.4,0,"[""Drama"", ""Legal"", ""Thriller""]",60.0,2013.0,BBC One,https://www.tvmaze.com/shows/1707/the-escape-artist,1,0.6384157585359183,False positive
+1714,WPC 56,6.9,0,"[""Crime"", ""Drama"", ""Romance""]",45.0,2013.0,BBC One,https://www.tvmaze.com/shows/1714/wpc-56,1,0.09921476278326011,False positive
+1719,Mr. Bean,8.1,1,"[""Comedy"", ""Family""]",30.0,1990.0,ITV1,https://www.tvmaze.com/shows/1719/mr-bean,1,0.25101466910365566,True positive
+1731,Olympus,6.1,0,"[""Adventure"", ""Drama"", ""Fantasy""]",60.0,2015.0,Syfy,https://www.tvmaze.com/shows/1731/olympus,0,-1.237448980748914,True negative
+1747,Texas Rising,6.8,0,"[""Action"", ""Drama"", ""Western""]",90.0,2015.0,History,https://www.tvmaze.com/shows/1747/texas-rising,0,-0.26714366656887445,True negative
+1748,Matlock,7.2,0,"[""Crime"", ""Drama"", ""Legal""]",60.0,1986.0,ABC,https://www.tvmaze.com/shows/1748/matlock,1,0.0882872031535838,False positive
+1754,Ironside,7.6,0,"[""Crime"", ""Drama""]",60.0,1967.0,NBC,https://www.tvmaze.com/shows/1754/ironside,1,0.06085484105929021,False positive
+1767,The Bletchley Circle,8.0,1,"[""Crime"", ""Drama"", ""Mystery""]",45.0,2012.0,ITV1,https://www.tvmaze.com/shows/1767/the-bletchley-circle,0,-0.3844187251047255,False negative
+1785,Stephen King's The Stand,7.6,0,"[""Drama"", ""Fantasy"", ""Horror""]",90.0,1994.0,ABC,https://www.tvmaze.com/shows/1785/stephen-kings-the-stand,0,-1.1222286476113033,True negative
+1791,Scream: The TV Series,7.0,0,"[""Horror"", ""Mystery""]",60.0,2015.0,VH1,https://www.tvmaze.com/shows/1791/scream-the-tv-series,0,-1.157177363651539,True negative
+1794,Complications,7.9,0,"[""Drama"", ""Medical"", ""Thriller""]",60.0,2015.0,USA Network,https://www.tvmaze.com/shows/1794/complications,1,0.022832207390070587,False positive
+1798,Tatau,7.3,0,"[""Crime"", ""Drama"", ""Fantasy""]",60.0,2015.0,BBC Three,https://www.tvmaze.com/shows/1798/tatau,0,-0.6867429213586104,True negative
+1804,The Man in the High Castle,8.1,1,"[""Drama"", ""Science-Fiction"", ""Thriller""]",,2015.0,Unknown,https://www.tvmaze.com/shows/1804/the-man-in-the-high-castle,1,0.7747276381121636,True positive
+1812,The Body Farm,7.1,0,"[""Crime"", ""Drama""]",60.0,2011.0,BBC One,https://www.tvmaze.com/shows/1812/the-body-farm,1,0.21740367032602437,False positive
+1822,The Brink,7.5,0,"[""Comedy"", ""War""]",30.0,2015.0,HBO,https://www.tvmaze.com/shows/1822/the-brink,0,-1.1289502327551941,True negative
+1823,Between,6.5,0,"[""Drama"", ""Mystery"", ""Science-Fiction""]",,2015.0,Unknown,https://www.tvmaze.com/shows/1823/between,1,0.8792775161739786,False positive
+1851,DC's Legends of Tomorrow,7.1,0,"[""Action"", ""Drama"", ""Science-Fiction""]",60.0,2016.0,The CW,https://www.tvmaze.com/shows/1851/dcs-legends-of-tomorrow,0,-0.4157163029022995,True negative
+1852,Shetland,8.0,1,"[""Crime"", ""Drama"", ""Mystery""]",60.0,2013.0,BBC One,https://www.tvmaze.com/shows/1852/shetland,1,0.14382654787836557,True positive
+1862,Scream Queens,7.0,0,"[""Comedy"", ""Horror"", ""Mystery""]",60.0,2015.0,FOX,https://www.tvmaze.com/shows/1862/scream-queens,0,-0.9621774614321714,True negative
+1879,Femme Fatales,4.0,0,"[""Crime"", ""Thriller""]",30.0,2011.0,Cinemax,https://www.tvmaze.com/shows/1879/femme-fatales,0,-0.9295552021389659,True negative
+1886,Tropical Heat,6.3,0,"[""Action"", ""Crime"", ""Drama""]",60.0,1991.0,CHCH,https://www.tvmaze.com/shows/1886/tropical-heat,1,0.6955425454178857,False positive
+1889,Taken,8.1,1,"[""Science-Fiction""]",90.0,2002.0,Syfy,https://www.tvmaze.com/shows/1889/taken,1,0.14973951107974387,True positive
+1896,Renegade,7.9,0,"[""Action"", ""Crime""]",60.0,1992.0,USA Network,https://www.tvmaze.com/shows/1896/renegade,1,0.20337450979085375,False positive
+1929,The Avengers,8.1,1,"[""Action"", ""Comedy"", ""Crime""]",60.0,1961.0,ITV1,https://www.tvmaze.com/shows/1929/the-avengers,1,0.23945124107856092,True positive
+1930,The New Avengers,7.1,0,"[""Action"", ""Mystery"", ""Thriller""]",50.0,1976.0,ITV1,https://www.tvmaze.com/shows/1930/the-new-avengers,1,0.5857674187217208,False positive
+1949,Garth Marenghi's Darkplace,7.9,0,"[""Comedy"", ""Horror"", ""Science-Fiction""]",25.0,2004.0,Channel 4,https://www.tvmaze.com/shows/1949/garth-marenghis-darkplace,1,0.9965434183495,False positive
+1962,Missing,7.2,0,"[""Crime"", ""Drama"", ""Mystery""]",60.0,2003.0,Lifetime,https://www.tvmaze.com/shows/1962/missing,1,0.49209667189222583,False positive
+1979,Charles in Charge,6.2,0,"[""Comedy""]",30.0,1984.0,Syndication,https://www.tvmaze.com/shows/1979/charles-in-charge,0,-1.091072094399577,True negative
+1994,Him & Her,6.0,0,"[""Comedy""]",30.0,2010.0,BBC Three,https://www.tvmaze.com/shows/1994/him-her,0,-0.09983005792771825,True negative
+1995,Mad Dogs,7.6,0,"[""Crime"", ""Drama"", ""Thriller""]",60.0,2011.0,Sky Showcase,https://www.tvmaze.com/shows/1995/mad-dogs,1,0.46348681012347226,False positive
+2002,Miss Fisher's Murder Mysteries,8.0,1,"[""Crime"", ""Drama""]",60.0,2012.0,ABC,https://www.tvmaze.com/shows/2002/miss-fishers-murder-mysteries,1,0.5064375778607727,True positive
+2008,Skins,5.6,0,"[""Drama"", ""Romance""]",60.0,2011.0,MTV,https://www.tvmaze.com/shows/2008/skins,0,-0.8030855891346348,True negative
+2009,The Casual Vacancy,6.2,0,"[""Crime"", ""Drama"", ""Mystery""]",60.0,2015.0,BBC One,https://www.tvmaze.com/shows/2009/the-casual-vacancy,0,-0.02691268789483009,True negative
+2019,Vanished,7.3,0,"[""Drama"", ""Thriller""]",60.0,2006.0,FOX,https://www.tvmaze.com/shows/2019/vanished,1,0.2487016725765417,False positive
+2024,Touching Evil,7.1,0,"[""Crime"", ""Drama"", ""Thriller""]",60.0,2004.0,USA Network,https://www.tvmaze.com/shows/2024/touching-evil,1,1.3116810346706893,False positive
+2042,Doll & Em,7.1,0,"[""Comedy""]",30.0,2014.0,Sky Atlantic,https://www.tvmaze.com/shows/2042/doll-em,0,-1.1869454010486555,True negative
+2052,UnREAL,7.8,0,"[""Drama"", ""Romance""]",,2015.0,Unknown,https://www.tvmaze.com/shows/2052/unreal,0,-0.3651867627677819,True negative
+2054,Love/Hate,7.9,0,"[""Crime"", ""Drama""]",60.0,2010.0,RTÉ ONE,https://www.tvmaze.com/shows/2054/lovehate,0,-0.932060515410686,True negative
+2094,Only Fools and Horses....,8.5,1,"[""Comedy""]",50.0,1981.0,BBC One,https://www.tvmaze.com/shows/2094/only-fools-and-horses,1,1.392371890639255,True positive
+2111,Mysterious Ways,5.4,0,"[""Drama"", ""Fantasy"", ""Science-Fiction""]",60.0,2000.0,Syndication,https://www.tvmaze.com/shows/2111/mysterious-ways,0,-1.226973225612189,True negative
+2130,The Untouchables,8.1,1,"[""Action"", ""Crime"", ""Drama""]",60.0,1959.0,ABC,https://www.tvmaze.com/shows/2130/the-untouchables,0,-0.5884950707619047,False negative
+2146,The Lone Ranger,7.7,0,"[""Action"", ""Adventure"", ""Western""]",30.0,1949.0,ABC,https://www.tvmaze.com/shows/2146/the-lone-ranger,1,0.8925876557677664,False positive
+2147,The Outer Limits,8.0,1,"[""Drama"", ""Science-Fiction""]",60.0,1963.0,ABC,https://www.tvmaze.com/shows/2147/the-outer-limits,1,0.06294436477607884,True positive
+2148,The Rat Patrol,6.2,0,"[""Action"", ""Drama"", ""War""]",30.0,1966.0,ABC,https://www.tvmaze.com/shows/2148/the-rat-patrol,1,0.2560360911496716,False positive
+2208,Lucky Louie,6.8,0,"[""Comedy""]",30.0,2006.0,HBO,https://www.tvmaze.com/shows/2208/lucky-louie,0,-0.6234097474778502,True negative
+2218,Taxi,7.5,0,"[""Comedy"", ""Drama""]",30.0,1978.0,NBC,https://www.tvmaze.com/shows/2218/taxi,1,0.20103225625218452,False positive
+2219,The Guardian,7.3,0,"[""Crime"", ""Drama"", ""Legal""]",60.0,2001.0,CBS,https://www.tvmaze.com/shows/2219/the-guardian,1,0.3240154480587853,False positive
+2220,Undeclared,6.6,0,"[""Comedy""]",30.0,2001.0,FOX,https://www.tvmaze.com/shows/2220/undeclared,0,-0.798690346764529,True negative
+2240,Another Period,7.3,0,"[""Comedy""]",30.0,2015.0,Comedy Central,https://www.tvmaze.com/shows/2240/another-period,0,-1.3778976755021237,True negative
+2245,Truth Be Told,6.2,0,"[""Comedy""]",30.0,2015.0,NBC,https://www.tvmaze.com/shows/2245/truth-be-told,0,-1.1887327467413586,True negative
+2246,Chicago Med,7.8,0,"[""Drama"", ""Medical""]",60.0,2015.0,NBC,https://www.tvmaze.com/shows/2246/chicago-med,0,-0.6071179892976877,True negative
+2321,Labyrinth,6.1,0,"[""Adventure"", ""Fantasy"", ""Mystery""]",120.0,2012.0,Channel 4,https://www.tvmaze.com/shows/2321/labyrinth,0,-0.06216690474010826,True negative
+2323,Miranda,8.1,1,"[""Comedy""]",30.0,2009.0,BBC One,https://www.tvmaze.com/shows/2323/miranda,0,-0.37287061987040754,False negative
+2330,Spy,7.4,0,"[""Comedy"", ""Espionage""]",30.0,2011.0,Sky Showcase,https://www.tvmaze.com/shows/2330/spy,0,-0.7655175953536031,True negative
+2347,The Secret of Crickley Hall,7.8,0,"[""Drama"", ""Horror"", ""Mystery""]",60.0,2012.0,BBC One,https://www.tvmaze.com/shows/2347/the-secret-of-crickley-hall,0,-0.805318685701154,True negative
+2473,Limitless,8.0,1,"[""Crime"", ""Drama"", ""Science-Fiction""]",60.0,2015.0,CBS,https://www.tvmaze.com/shows/2473/limitless,1,0.04592889385003045,True positive
+2474,Life in Pieces,7.7,0,"[""Comedy"", ""Family""]",30.0,2015.0,CBS,https://www.tvmaze.com/shows/2474/life-in-pieces,0,-1.6394254899066387,True negative
+2583,Mr. Show,8.0,1,"[""Comedy""]",30.0,1995.0,HBO,https://www.tvmaze.com/shows/2583/mr-show,0,-0.09145106463980444,False negative
+2609,The Aurora Teagarden Mysteries,7.7,0,"[""Crime"", ""Mystery""]",120.0,2015.0,Hallmark Mystery,https://www.tvmaze.com/shows/2609/the-aurora-teagarden-mysteries,0,-0.9915183291429925,True negative
+2632,Berlin Station,7.2,0,"[""Drama"", ""Espionage"", ""Mystery""]",60.0,2016.0,MGM+,https://www.tvmaze.com/shows/2632/berlin-station,0,-0.3154907445046116,True negative
+2641,Sea Patrol,7.7,0,"[""Action"", ""Adventure"", ""Drama""]",60.0,2007.0,Nine Network,https://www.tvmaze.com/shows/2641/sea-patrol,1,0.05560434977221165,False positive
+2643,Bunk'd,6.9,0,"[""Children"", ""Comedy""]",30.0,2015.0,Disney Channel,https://www.tvmaze.com/shows/2643/bunkd,0,-1.3685084095028208,True negative
+2686,Sneaky Pete,7.5,0,"[""Crime"", ""Drama""]",,2015.0,Unknown,https://www.tvmaze.com/shows/2686/sneaky-pete,1,0.6654230417340091,False positive
+2687,Casanova,7.0,0,"[""Drama"", ""Romance""]",55.0,2015.0,Unknown,https://www.tvmaze.com/shows/2687/casanova,0,-0.7849214543073992,True negative
+2705,Narcos,8.4,1,"[""Action"", ""Crime"", ""Drama""]",,2015.0,Unknown,https://www.tvmaze.com/shows/2705/narcos,1,1.0001062817962254,True positive
+2730,Thirteen,7.8,0,"[""Drama"", ""Mystery"", ""Thriller""]",60.0,2016.0,Unknown,https://www.tvmaze.com/shows/2730/thirteen,0,-1.0809261905723189,True negative
+2740,Roadies,7.3,0,"[""Drama"", ""Romance""]",60.0,2016.0,Paramount+ with Showtime,https://www.tvmaze.com/shows/2740/roadies,0,-0.5906322430701888,True negative
+2758,Mercy Street,7.6,0,"[""Drama"", ""War""]",60.0,2016.0,PBS,https://www.tvmaze.com/shows/2758/mercy-street,0,-1.2048149875803282,True negative
+2790,The Good Place,7.6,0,"[""Comedy"", ""Fantasy"", ""Supernatural""]",30.0,2016.0,NBC,https://www.tvmaze.com/shows/2790/the-good-place,0,-0.7401078795648266,True negative
+2793,Powerless,6.1,0,"[""Comedy"", ""Science-Fiction""]",30.0,2017.0,NBC,https://www.tvmaze.com/shows/2793/powerless,0,-1.1117332301591827,True negative
+2885,Liv & Maddie,7.5,0,"[""Comedy"", ""Drama"", ""Family""]",30.0,2013.0,Disney Channel,https://www.tvmaze.com/shows/2885/liv-maddie,0,-1.5817206639351502,True negative
+2942,Childhood's End,7.4,0,"[""Drama"", ""Science-Fiction""]",120.0,2015.0,Syfy,https://www.tvmaze.com/shows/2942/childhoods-end,0,-0.5975919034418534,True negative
+2969,Big School,7.0,0,"[""Comedy""]",30.0,2013.0,BBC One,https://www.tvmaze.com/shows/2969/big-school,0,-0.713342782935908,True negative
+2988,Spun Out,7.5,0,"[""Comedy""]",30.0,2014.0,CTV,https://www.tvmaze.com/shows/2988/spun-out,0,-1.1425180760648497,True negative
+3022,Future Man,7.1,0,"[""Action"", ""Comedy"", ""Science-Fiction""]",,2017.0,Unknown,https://www.tvmaze.com/shows/3022/future-man,0,-0.6482738276075941,True negative
+3036,Casual,7.0,0,"[""Comedy""]",,2015.0,Unknown,https://www.tvmaze.com/shows/3036/casual,0,-0.90642658329172,True negative
+3073,The Real O'Neals,7.0,0,"[""Comedy"", ""Family""]",30.0,2016.0,ABC,https://www.tvmaze.com/shows/3073/the-real-oneals,0,-1.382510989670219,True negative
+3075,BrainDead,8.0,1,"[""Comedy"", ""Drama"", ""Thriller""]",60.0,2016.0,CBS,https://www.tvmaze.com/shows/3075/braindead,0,-1.0266288150812937,False negative
+3080,Big Little Lies,7.8,0,"[""Comedy"", ""Drama"", ""Mystery""]",60.0,2017.0,HBO,https://www.tvmaze.com/shows/3080/big-little-lies,0,-0.04563237330002977,True negative
+3087,Westside,6.1,0,"[""Comedy"", ""Crime"", ""Drama""]",65.0,2015.0,Three,https://www.tvmaze.com/shows/3087/westside,0,-1.1562852399983061,True negative
+3142,Doctor Foster,7.7,0,"[""Drama"", ""Medical""]",60.0,2015.0,BBC One,https://www.tvmaze.com/shows/3142/doctor-foster,0,-0.5367045760622216,True negative
+3164,Heartland,7.7,0,"[""Drama"", ""Family""]",,2007.0,Unknown,https://www.tvmaze.com/shows/3164/heartland,1,0.15950758725190284,False positive
+3166,Inspector George Gently,8.0,1,"[""Crime"", ""Drama""]",90.0,2008.0,BBC One,https://www.tvmaze.com/shows/3166/inspector-george-gently,1,0.3171301275421602,True positive
+3203,Crowded,7.5,0,"[""Comedy"", ""Family""]",30.0,2016.0,NBC,https://www.tvmaze.com/shows/3203/crowded,0,-1.1345326019245094,True negative
+3254,Father Ted,8.1,1,"[""Comedy""]",30.0,1995.0,Channel 4,https://www.tvmaze.com/shows/3254/father-ted,1,1.3463930228670562,True positive
+3294,Kung Fu,7.9,0,"[""Action"", ""Drama"", ""Western""]",60.0,1972.0,ABC,https://www.tvmaze.com/shows/3294/kung-fu,1,0.22067002294175864,False positive
+3295,Hetty Feather,6.8,0,"[""Children"", ""Drama""]",,2015.0,Unknown,https://www.tvmaze.com/shows/3295/hetty-feather,0,-0.29166988075438405,True negative
+3302,Vera,8.0,1,"[""Crime"", ""Drama"", ""Mystery""]",120.0,2011.0,ITV1,https://www.tvmaze.com/shows/3302/vera,1,0.8165771984404677,True positive
+3303,Ordinary Lies,6.2,0,"[""Drama""]",60.0,2015.0,BBC One,https://www.tvmaze.com/shows/3303/ordinary-lies,0,-0.8900812487316746,True negative
+3309,The Waltons,7.7,0,"[""Drama"", ""Family""]",60.0,1972.0,CBS,https://www.tvmaze.com/shows/3309/the-waltons,0,-1.2824108022651635,True negative
+3312,Upper Middle Bogan,7.8,0,"[""Comedy""]",30.0,2013.0,ABC,https://www.tvmaze.com/shows/3312/upper-middle-bogan,0,-0.8153267651700038,True negative
+3314,Indian Summers,8.0,1,"[""Drama"", ""Romance""]",60.0,2015.0,Channel 4,https://www.tvmaze.com/shows/3314/indian-summers,0,-0.15518754675149227,False negative
+3328,Scarecrow and Mrs. King,8.0,1,"[""Adventure"", ""Drama"", ""Romance""]",60.0,1983.0,CBS,https://www.tvmaze.com/shows/3328/scarecrow-and-mrs-king,0,-1.1514485106381849,False negative
+3384,This Life,7.8,0,"[""Drama"", ""Family"", ""Medical""]",60.0,2015.0,CBC,https://www.tvmaze.com/shows/3384/this-life,0,-0.7929850998630393,True negative
+3385,The Romeo Section,6.7,0,"[""Drama"", ""Espionage""]",60.0,2015.0,CBC,https://www.tvmaze.com/shows/3385/the-romeo-section,0,-0.6321105658994339,True negative
+3407,Crims,6.7,0,"[""Comedy""]",30.0,2015.0,BBC Three,https://www.tvmaze.com/shows/3407/crims,0,-0.5546719685717414,True negative
+3432,The Pinkertons,5.3,0,"[""Crime"", ""Mystery"", ""Western""]",60.0,2014.0,Syndication,https://www.tvmaze.com/shows/3432/the-pinkertons,0,-0.7699475707482999,True negative
+3475,This is Jinsy,6.8,0,"[""Comedy"", ""Fantasy"", ""Science-Fiction""]",25.0,2011.0,Sky Atlantic,https://www.tvmaze.com/shows/3475/this-is-jinsy,0,-0.8372450283538806,True negative
+3481,The Almighty Johnsons,7.9,0,"[""Comedy"", ""Drama"", ""Fantasy""]",60.0,2011.0,Three,https://www.tvmaze.com/shows/3481/the-almighty-johnsons,0,-1.7364417225980702,True negative
+3489,Fried,7.5,0,"[""Comedy""]",30.0,2015.0,BBC Three,https://www.tvmaze.com/shows/3489/fried,0,-0.5546719685717414,True negative
+3498,Land of the Giants,7.8,0,"[""Action"", ""Adventure"", ""Science-Fiction""]",60.0,1968.0,ABC,https://www.tvmaze.com/shows/3498/land-of-the-giants,0,-0.32509811528183047,True negative
+3531,The Heritage of Lancaster County,8.3,1,"[""Drama"", ""Family"", ""Romance""]",120.0,2011.0,Hallmark Mystery,https://www.tvmaze.com/shows/3531/the-heritage-of-lancaster-county,0,-0.8604560521206633,False negative
+3533,Time After Time,7.1,0,"[""Adventure"", ""Drama"", ""Science-Fiction""]",60.0,2017.0,ABC,https://www.tvmaze.com/shows/3533/time-after-time,0,-0.17289695188685444,True negative
+3564,Kolchak: The Night Stalker,8.0,1,"[""Comedy"", ""Horror"", ""Science-Fiction""]",60.0,1972.0,ABC,https://www.tvmaze.com/shows/3564/kolchak-the-night-stalker,1,0.4263030677356862,True positive
+3571,Eagleheart,5.7,0,"[""Action"", ""Comedy""]",11.0,2011.0,Adult Swim,https://www.tvmaze.com/shows/3571/eagleheart,0,-1.1090648943873471,True negative
+3605,Vice Principals,6.7,0,"[""Comedy""]",30.0,2016.0,HBO,https://www.tvmaze.com/shows/3605/vice-principals,0,-1.2607777698990341,True negative
+3606,Billions,8.0,1,"[""Crime"", ""Drama""]",,2016.0,Unknown,https://www.tvmaze.com/shows/3606/billions,0,-0.040395956798643176,False negative
+3614,Lawman,9.0,1,"[""Drama"", ""Western""]",30.0,1958.0,ABC,https://www.tvmaze.com/shows/3614/lawman,1,0.6364542485168132,True positive
+3621,Mission: Impossible,7.4,0,"[""Action"", ""Adventure"", ""Crime""]",60.0,1988.0,ABC,https://www.tvmaze.com/shows/3621/mission-impossible,0,-0.6892377546669703,True negative
+3628,Degrassi,6.9,0,"[""Drama""]",30.0,2001.0,MTV,https://www.tvmaze.com/shows/3628/degrassi,0,-0.7348753677357414,True negative
+3647,Black Box,5.7,0,"[""Drama"", ""Medical"", ""Thriller""]",60.0,2014.0,ABC,https://www.tvmaze.com/shows/3647/black-box,0,-1.0931792671495204,True negative
+3679,Irwin Allen's Voyage to the Bottom of the Sea,7.8,0,"[""Action"", ""Adventure"", ""Science-Fiction""]",60.0,1964.0,ABC,https://www.tvmaze.com/shows/3679/irwin-allens-voyage-to-the-bottom-of-the-sea,0,-0.21116296569456888,True negative
+3740,Space Rangers,6.0,0,"[""Action"", ""Adventure"", ""Science-Fiction""]",60.0,1993.0,CBS,https://www.tvmaze.com/shows/3740/space-rangers,0,-0.06092670468200988,True negative
+3799,Murder in Successville,6.4,0,"[""Comedy"", ""Mystery""]",30.0,2015.0,Unknown,https://www.tvmaze.com/shows/3799/murder-in-successville,0,-1.0177634673555935,True negative
+3817,"Yes, Prime Minister",7.2,0,"[""Comedy""]",30.0,2013.0,U&GOLD,https://www.tvmaze.com/shows/3817/yes-prime-minister,0,-1.0985299361684862,True negative
+3835,I Hate My Teenage Daughter,6.4,0,"[""Comedy""]",30.0,2011.0,FOX,https://www.tvmaze.com/shows/3835/i-hate-my-teenage-daughter,0,-1.4657010152930803,True negative
+3837,Keeping Up Appearances,8.0,1,"[""Comedy""]",30.0,1990.0,BBC One,https://www.tvmaze.com/shows/3837/keeping-up-appearances,1,0.8022193263423042,True positive
+3888,Terry Pratchett's Going Postal,7.6,0,"[""Comedy"", ""Fantasy"", ""Mystery""]",120.0,2010.0,Sky Showcase,https://www.tvmaze.com/shows/3888/terry-pratchetts-going-postal,0,-0.38058771196821056,True negative
+3889,Messiah,8.0,1,"[""Crime"", ""Drama"", ""Mystery""]",120.0,2001.0,BBC One,https://www.tvmaze.com/shows/3889/messiah,1,0.7278011386926266,True positive
+3895,Storm of the Century,7.6,0,"[""Drama"", ""Horror"", ""Thriller""]",80.0,1999.0,ABC,https://www.tvmaze.com/shows/3895/storm-of-the-century,0,-0.5324530646176299,True negative
+3938,Close to Home,7.6,0,"[""Drama""]",60.0,2005.0,CBS,https://www.tvmaze.com/shows/3938/close-to-home,0,-0.5720638138286587,True negative
+3941,Sons of Tucson,7.0,0,"[""Comedy""]",30.0,2010.0,FOX,https://www.tvmaze.com/shows/3941/sons-of-tucson,0,-1.394913443200907,True negative
+3951,Still Open All Hours,7.6,0,"[""Comedy""]",30.0,2013.0,BBC One,https://www.tvmaze.com/shows/3951/still-open-all-hours,0,-0.713342782935908,True negative
+3962,Against the Wall,6.6,0,"[""Action"", ""Adventure"", ""Drama""]",60.0,2011.0,Lifetime,https://www.tvmaze.com/shows/3962/against-the-wall,1,0.21240180503423667,False positive
+3973,The Increasingly Poor Decisions of Todd Margaret,7.4,0,"[""Comedy""]",30.0,2010.0,IFC,https://www.tvmaze.com/shows/3973/the-increasingly-poor-decisions-of-todd-margaret,0,-1.0551705296660665,True negative
+3986,Cuckoo,7.1,0,"[""Comedy""]",30.0,2012.0,Unknown,https://www.tvmaze.com/shows/3986/cuckoo,0,-1.2285949483123342,True negative
+3997,Damien,6.7,0,"[""Drama"", ""Horror"", ""Thriller""]",60.0,2016.0,A&E,https://www.tvmaze.com/shows/3997/damien,0,-0.8229376200688799,True negative
+3999,The Philanthropist,6.0,0,"[""Action"", ""Adventure"", ""Drama""]",60.0,2009.0,NBC,https://www.tvmaze.com/shows/3999/the-philanthropist,0,-0.03249384292334527,True negative
+4043,Banacek,6.8,0,"[""Crime"", ""Drama"", ""Mystery""]",90.0,1972.0,NBC,https://www.tvmaze.com/shows/4043/banacek,1,0.5232983839761661,False positive
+4083,Growing Pains,7.0,0,"[""Comedy""]",30.0,1985.0,ABC,https://www.tvmaze.com/shows/4083/growing-pains,0,-0.3610704086338539,True negative
+4139,Coronation Street,7.5,0,"[""Drama""]",,1960.0,Unknown,https://www.tvmaze.com/shows/4139/coronation-street,0,-0.45293455305473224,True negative
+4144,Imposters,8.0,1,"[""Comedy"", ""Crime"", ""Drama""]",60.0,2017.0,Bravo,https://www.tvmaze.com/shows/4144/imposters,0,-0.6766295766409888,False negative
+4167,We Are Men,5.7,0,"[""Comedy""]",30.0,2013.0,CBS,https://www.tvmaze.com/shows/4167/we-are-men,0,-1.7487576165424992,True negative
+4171,The Guild,8.0,1,"[""Comedy"", ""Fantasy""]",7.0,2007.0,Unknown,https://www.tvmaze.com/shows/4171/the-guild,0,-0.9184273729983541,False negative
+4175,Hollyoaks,6.7,0,"[""Drama""]",,1995.0,Unknown,https://www.tvmaze.com/shows/4175/hollyoaks,0,-0.07494889313540277,True negative
+4181,Kitchen Confidential,8.0,1,"[""Comedy"", ""Food""]",30.0,2005.0,FOX,https://www.tvmaze.com/shows/4181/kitchen-confidential,0,-0.9890458814529752,False negative
+4208,Tremors,7.8,0,"[""Action"", ""Horror"", ""Science-Fiction""]",60.0,2003.0,Syfy,https://www.tvmaze.com/shows/4208/tremors,1,0.16668451181431432,False positive
+4250,Sam & Cat,6.2,0,"[""Children"", ""Comedy""]",30.0,2013.0,Nickelodeon,https://www.tvmaze.com/shows/4250/sam-cat,0,-0.9082037127428938,True negative
+4336,Drifters,7.1,0,"[""Comedy""]",35.0,2013.0,E4,https://www.tvmaze.com/shows/4336/drifters,0,-1.0908060006703342,True negative
+4374,Way to Go,6.7,0,"[""Comedy""]",30.0,2013.0,BBC Three,https://www.tvmaze.com/shows/4374/way-to-go,0,-0.3715401965129132,True negative
+4398,¡Rob!,7.3,0,"[""Comedy""]",30.0,2012.0,CBS,https://www.tvmaze.com/shows/4398/rob,0,-1.7085891415978762,True negative
+4411,The Fixer,7.4,0,"[""Action"", ""Crime"", ""Drama""]",60.0,2008.0,ITV1,https://www.tvmaze.com/shows/4411/the-fixer,1,0.1113331252518785,False positive
+4460,St. Elsewhere,7.7,0,"[""Comedy"", ""Drama"", ""Medical""]",60.0,1982.0,NBC,https://www.tvmaze.com/shows/4460/st-elsewhere,1,1.1687780478883782,False positive
+4473,The Bill Engvall Show,6.6,0,"[""Comedy"", ""Family""]",30.0,2007.0,TBS,https://www.tvmaze.com/shows/4473/the-bill-engvall-show,0,-1.0574445927801333,True negative
+4505,Wanted,7.5,0,"[""Action"", ""Crime"", ""Drama""]",60.0,2005.0,TNT,https://www.tvmaze.com/shows/4505/wanted,1,0.6975129862412989,False positive
+4521,The Larry Sanders Show,7.8,0,"[""Comedy"", ""Drama""]",30.0,1992.0,HBO,https://www.tvmaze.com/shows/4521/the-larry-sanders-show,1,0.04361823753444943,False positive
+4528,Zen,7.9,0,"[""Crime"", ""Drama"", ""Mystery""]",90.0,2011.0,BBC One,https://www.tvmaze.com/shows/4528/zen,1,0.17240218023477877,False positive
+4538,Hazel,7.2,0,"[""Comedy"", ""Family""]",30.0,1961.0,CBS,https://www.tvmaze.com/shows/4538/hazel,0,-0.6784245583111916,True negative
+4540,Eastwick,7.7,0,"[""Drama"", ""Horror"", ""Mystery""]",60.0,2009.0,ABC,https://www.tvmaze.com/shows/4540/eastwick,0,-0.7414537535979348,True negative
+4580,Made in Jersey,6.8,0,"[""Drama"", ""Legal""]",60.0,2012.0,CBS,https://www.tvmaze.com/shows/4580/made-in-jersey,0,-0.4421932273894165,True negative
+4607,The Facts of Life,7.3,0,"[""Comedy""]",30.0,1979.0,NBC,https://www.tvmaze.com/shows/4607/the-facts-of-life,0,-0.06448069776770739,True negative
+4623,Pramface,7.3,0,"[""Comedy""]",30.0,2012.0,BBC Three,https://www.tvmaze.com/shows/4623/pramface,0,-0.2802474401536398,True negative
+4636,My Two Dads,6.0,0,"[""Comedy""]",30.0,1987.0,NBC,https://www.tvmaze.com/shows/4636/my-two-dads,0,-0.11003362104712049,True negative
+4641,Corner Gas,7.9,0,"[""Comedy""]",30.0,2004.0,CTV,https://www.tvmaze.com/shows/4641/corner-gas,0,-0.41959573907817155,True negative
+4645,Bosom Buddies,7.8,0,"[""Comedy""]",30.0,1980.0,ABC,https://www.tvmaze.com/shows/4645/bosom-buddies,0,-0.20185761812489422,True negative
+4647,Public Enemies,7.3,0,"[""Crime"", ""Drama""]",60.0,2012.0,BBC One,https://www.tvmaze.com/shows/4647/public-enemies,1,0.12372025648783362,False positive
+4681,Played,7.6,0,"[""Action"", ""Crime"", ""Drama""]",60.0,2013.0,CTV,https://www.tvmaze.com/shows/4681/played,1,0.24047051244252104,False positive
+4689,Jesse,6.8,0,"[""Comedy""]",30.0,1998.0,NBC,https://www.tvmaze.com/shows/4689/jesse,0,-0.31517678534296584,True negative
+4708,Men Behaving Badly,7.9,0,"[""Comedy""]",30.0,1992.0,BBC One,https://www.tvmaze.com/shows/4708/men-behaving-badly,1,0.7282619639236156,False positive
+4711,I Live with Models,7.2,0,"[""Comedy""]",22.0,2015.0,Comedy Central,https://www.tvmaze.com/shows/4711/i-live-with-models,0,-1.25303531160154,True negative
+4720,Mercy,7.3,0,"[""Drama"", ""Medical""]",60.0,2009.0,NBC,https://www.tvmaze.com/shows/4720/mercy,0,-0.12471712745494105,True negative
+4727,Retired at 35,6.0,0,[],30.0,2011.0,TV Land,https://www.tvmaze.com/shows/4727/retired-at-35,0,-1.3786780454742356,True negative
+4792,Spitting Image,7.2,0,"[""Adult"", ""Comedy""]",25.0,1984.0,ITV1,https://www.tvmaze.com/shows/4792/spitting-image,1,0.7180739884956827,False positive
+4881,Accused,6.9,0,"[""Crime"", ""Drama"", ""Legal""]",60.0,2010.0,BBC One,https://www.tvmaze.com/shows/4881/accused,1,1.0330598883746775,False positive
+4894,Zombieland,5.4,0,"[""Adventure"", ""Comedy"", ""Horror""]",30.0,2013.0,Unknown,https://www.tvmaze.com/shows/4894/zombieland,0,-0.8257557776058484,True negative
+4966,The Flying Nun,7.7,0,"[""Adventure"", ""Comedy"", ""Fantasy""]",30.0,1967.0,ABC,https://www.tvmaze.com/shows/4966/the-flying-nun,0,-0.26928212468321516,True negative
+4968,Lassie,6.4,0,"[""Adventure"", ""Drama"", ""Family""]",30.0,1954.0,CBS,https://www.tvmaze.com/shows/4968/lassie,0,-0.48997720136038375,True negative
+5007,Titanic: Blood and Steel,7.3,0,"[""Drama"", ""History""]",55.0,2012.0,History,https://www.tvmaze.com/shows/5007/titanic-blood-and-steel,0,-1.2698806315074396,True negative
+5072,Terry Pratchett's Hogfather,7.4,0,"[""Comedy"", ""Family"", ""Fantasy""]",90.0,2006.0,Sky Showcase,https://www.tvmaze.com/shows/5072/terry-pratchetts-hogfather,0,-0.8304811377863218,True negative
+5112,The Kids in the Hall,7.1,0,"[""Comedy""]",30.0,1988.0,Unknown,https://www.tvmaze.com/shows/5112/the-kids-in-the-hall,0,-0.037334093112249375,True negative
+5266,The Silence,7.0,0,"[""Crime"", ""Drama""]",60.0,2010.0,BBC One,https://www.tvmaze.com/shows/5266/the-silence,1,0.3081277020165752,False positive
+5295,People Just Do Nothing,8.0,1,"[""Comedy"", ""Drama"", ""Music""]",30.0,2014.0,BBC Two,https://www.tvmaze.com/shows/5295/people-just-do-nothing,0,-0.7419918015107294,False negative
+5389,The Jeffersons,7.2,0,"[""Comedy""]",30.0,1975.0,CBS,https://www.tvmaze.com/shows/5389/the-jeffersons,0,-0.5409229275019345,True negative
+5443,Get Smart,6.6,0,"[""Comedy"", ""Crime"", ""Mystery""]",30.0,1995.0,FOX,https://www.tvmaze.com/shows/5443/get-smart,1,0.0829563587161881,False positive
+5541,Together,7.2,0,"[""Comedy""]",30.0,2015.0,BBC Three,https://www.tvmaze.com/shows/5541/together,0,-0.5546719685717414,True negative
+5542,Models Inc.,6.0,0,"[""Drama""]",60.0,1994.0,FOX,https://www.tvmaze.com/shows/5542/models-inc,1,0.5502658405817467,False positive
+5619,Durham County,7.1,0,"[""Crime"", ""Drama"", ""Thriller""]",60.0,2007.0,Crave,https://www.tvmaze.com/shows/5619/durham-county,1,0.7490991669822774,False positive
+5637,The Invisible Man,7.6,0,"[""Action"", ""Science-Fiction""]",60.0,2000.0,Syfy,https://www.tvmaze.com/shows/5637/the-invisible-man,1,0.7173114954641473,False positive
+5645,Spellbinder,6.8,0,"[""Adventure"", ""Fantasy"", ""Science-Fiction""]",25.0,1995.0,Nine Network,https://www.tvmaze.com/shows/5645/spellbinder,0,-0.7042108793773875,True negative
+5747,The Smoke,6.8,0,"[""Drama""]",60.0,2014.0,Sky Showcase,https://www.tvmaze.com/shows/5747/the-smoke,0,-1.0786730369731168,True negative
+5748,Secrets & Lies,7.7,0,"[""Crime"", ""Drama"", ""Thriller""]",60.0,2014.0,Network 10,https://www.tvmaze.com/shows/5748/secrets-lies,1,0.13347229655177303,False positive
+5773,The Family,6.3,0,"[""Drama"", ""Mystery"", ""Thriller""]",60.0,2016.0,ABC,https://www.tvmaze.com/shows/5773/the-family,0,-0.9173578860255557,True negative
+5775,Idiotsitter,5.8,0,"[""Comedy""]",30.0,2016.0,Comedy Central,https://www.tvmaze.com/shows/5775/idiotsitter,0,-1.441673096660864,True negative
+5788,State of Play,8.0,1,"[""Drama""]",60.0,2003.0,BBC One,https://www.tvmaze.com/shows/5788/state-of-play,1,0.3091329401496372,True positive
+5818,Space: Above and Beyond,8.0,1,"[""Drama"", ""Science-Fiction"", ""War""]",60.0,1995.0,FOX,https://www.tvmaze.com/shows/5818/space-above-and-beyond,1,0.9228856553007289,True positive
+5841,Mannix,7.5,0,"[""Action"", ""Crime"", ""Drama""]",60.0,1967.0,CBS,https://www.tvmaze.com/shows/5841/mannix,0,-1.176638049386225,True negative
+5913,Mad Dogs,7.3,0,"[""Comedy"", ""Crime"", ""Drama""]",,2015.0,Unknown,https://www.tvmaze.com/shows/5913/mad-dogs,0,-0.49867319538251637,True negative
+5920,Space: 1999,7.6,0,"[""Action"", ""Adventure"", ""Science-Fiction""]",60.0,1975.0,ITV1,https://www.tvmaze.com/shows/5920/space-1999,1,0.5178212537438434,False positive
+5994,Underground,7.4,0,"[""Drama"", ""History""]",60.0,2016.0,NewsNation,https://www.tvmaze.com/shows/5994/underground,0,-0.6038878686646255,True negative
+6004,The Slap,7.1,0,"[""Drama""]",60.0,2011.0,ABC,https://www.tvmaze.com/shows/6004/the-slap,0,-0.17696704855256407,True negative
+6032,Galactica 1980,7.7,0,"[""Science-Fiction""]",60.0,1980.0,ABC,https://www.tvmaze.com/shows/6032/galactica-1980,0,-0.26685961904611305,True negative
+6066,American Gothic,6.7,0,"[""Drama"", ""Horror"", ""Thriller""]",60.0,2016.0,CBS,https://www.tvmaze.com/shows/6066/american-gothic,0,-1.2616877462924339,True negative
+6076,London's Burning,7.3,0,"[""Drama""]",50.0,1988.0,ITV1,https://www.tvmaze.com/shows/6076/londons-burning,1,0.6801331218099042,False positive
+6126,The Beautiful Lie,7.7,0,"[""Drama"", ""Romance""]",60.0,2015.0,ABC,https://www.tvmaze.com/shows/6126/the-beautiful-lie,0,-0.6318566891889463,True negative
+6133,The Persuaders,7.6,0,"[""Action"", ""Adventure"", ""Drama""]",60.0,1971.0,ITV1,https://www.tvmaze.com/shows/6133/the-persuaders,1,0.03463322948000682,False positive
+6647,"Yes, Prime Minister",8.1,1,"[""Comedy""]",30.0,1986.0,BBC Two,https://www.tvmaze.com/shows/6647/yes-prime-minister,1,1.2224956581400876,True positive
+6761,Rovers,7.0,0,"[""Comedy""]",30.0,2016.0,Sky Showcase,https://www.tvmaze.com/shows/6761/rovers,0,-1.3546854852598786,True negative
+6768,Secret City,7.3,0,"[""Drama"", ""Thriller""]",60.0,2016.0,Unknown,https://www.tvmaze.com/shows/6768/secret-city,0,-1.0388727973579992,True negative
+6775,Stan Lee's Lucky Man,7.9,0,"[""Crime"", ""Drama"", ""Fantasy""]",60.0,2016.0,Sky Showcase,https://www.tvmaze.com/shows/6775/stan-lees-lucky-man,0,-0.9898114536209781,True negative
+6784,McMafia,7.2,0,"[""Crime"", ""Drama"", ""Thriller""]",60.0,2018.0,BBC One,https://www.tvmaze.com/shows/6784/mcmafia,1,0.1515835318692472,False positive
+6876,Strangers with Candy,6.0,0,"[""Comedy""]",30.0,1999.0,Comedy Central,https://www.tvmaze.com/shows/6876/strangers-with-candy,0,-0.42432136893110994,True negative
+6888,Horrible Histories,7.1,0,"[""Children"", ""Comedy"", ""History""]",,2009.0,CBBC,https://www.tvmaze.com/shows/6888/horrible-histories,1,0.21799535299431427,False positive
+6912,Doctor Thorne,7.4,0,"[""Drama""]",60.0,2016.0,ITV1,https://www.tvmaze.com/shows/6912/doctor-thorne,0,-1.3489558105000716,True negative
+6913,My Mother and Other Strangers,6.9,0,"[""Drama"", ""History"", ""War""]",60.0,2016.0,RTÉ ONE,https://www.tvmaze.com/shows/6913/my-mother-and-other-strangers,0,-1.7887344676283035,True negative
+6935,Greenleaf,7.4,0,"[""Drama""]",60.0,2016.0,Oprah Winfrey Network,https://www.tvmaze.com/shows/6935/greenleaf,0,-1.035736243343565,True negative
+6946,Casanova,7.0,0,"[""Drama""]",60.0,2005.0,BBC Three,https://www.tvmaze.com/shows/6946/casanova,1,0.19784160087712654,False positive
+6948,Borealis,5.8,0,"[""Action"", ""Science-Fiction""]",120.0,2013.0,CTV Sci-Fi Channel,https://www.tvmaze.com/shows/6948/borealis,0,-0.41023887201040093,True negative
+6978,Electra Woman and Dyna Girl,6.5,0,"[""Action"", ""Adventure"", ""Science-Fiction""]",30.0,1976.0,ABC,https://www.tvmaze.com/shows/6978/electra-woman-and-dyna-girl,0,-0.7902466856640734,True negative
+7044,Housos,7.2,0,"[""Comedy""]",45.0,2011.0,7mate,https://www.tvmaze.com/shows/7044/housos,0,-0.7672489577606321,True negative
+7131,Packed to the Rafters,8.0,1,"[""Comedy"", ""Drama"", ""Romance""]",60.0,2008.0,Seven Network,https://www.tvmaze.com/shows/7131/packed-to-the-rafters,0,-0.041866161299681556,False negative
+7160,Prey,5.3,0,"[""Science-Fiction""]",60.0,1998.0,ABC,https://www.tvmaze.com/shows/7160/prey,0,-0.2745817630259394,True negative
+7193,Empty Nest,7.3,0,"[""Comedy"", ""Drama""]",30.0,1988.0,NBC,https://www.tvmaze.com/shows/7193/empty-nest,1,0.13877558917084523,False positive
+7208,Amber,7.4,0,"[""Drama"", ""Mystery""]",50.0,2014.0,RTÉ ONE,https://www.tvmaze.com/shows/7208/amber,0,-1.6511162096450243,True negative
+7220,Murphy Brown,6.3,0,"[""Comedy"", ""Drama""]",30.0,1988.0,CBS,https://www.tvmaze.com/shows/7220/murphy-brown,0,-0.9492400304590651,True negative
+7243,Designing Women,6.6,0,"[""Comedy""]",30.0,1986.0,CBS,https://www.tvmaze.com/shows/7243/designing-women,0,-0.9234697389713818,True negative
+7258,Vexed,6.8,0,"[""Comedy"", ""Drama""]",60.0,2010.0,BBC Two,https://www.tvmaze.com/shows/7258/vexed,1,0.39366553181374575,False positive
+7348,Benson,7.6,0,"[""Comedy""]",30.0,1979.0,ABC,https://www.tvmaze.com/shows/7348/benson,0,-0.1686784882706306,True negative
+7387,Wasted,7.5,0,"[""Comedy""]",35.0,2016.0,E4,https://www.tvmaze.com/shows/7387/wasted,0,-1.375057532617288,True negative
+7399,Josh,6.3,0,"[""Comedy""]",,2015.0,Unknown,https://www.tvmaze.com/shows/7399/josh,0,-0.738818768890544,True negative
+7405,The Aliens,7.0,0,"[""Comedy"", ""Drama"", ""Science-Fiction""]",60.0,2016.0,E4,https://www.tvmaze.com/shows/7405/the-aliens,0,-0.3280698832103733,True negative
+7522,Search Party,5.7,0,"[""Comedy"", ""Drama"", ""Mystery""]",,2016.0,Unknown,https://www.tvmaze.com/shows/7522/search-party,0,-0.6421502682389817,True negative
+7528,Flo,6.3,0,"[""Comedy""]",30.0,1980.0,CBS,https://www.tvmaze.com/shows/7528/flo,0,-0.7413957543639491,True negative
+7537,Goodnight Sweetheart,7.4,0,"[""Comedy"", ""History"", ""Romance""]",30.0,1993.0,BBC One,https://www.tvmaze.com/shows/7537/goodnight-sweetheart,1,1.0445547948860279,False positive
+7653,Kingdom,7.3,0,"[""Comedy"", ""Drama""]",60.0,2007.0,ITV1,https://www.tvmaze.com/shows/7653/kingdom,0,-0.021107039999857594,True negative
+7701,Providence,7.8,0,"[""Drama""]",,1999.0,NBC,https://www.tvmaze.com/shows/7701/providence,1,0.3912675597635054,False positive
+7705,The Jeff Foxworthy Show,6.3,0,"[""Comedy""]",30.0,1995.0,NBC,https://www.tvmaze.com/shows/7705/the-jeff-foxworthy-show,0,-0.23185467702510631,True negative
+7809,Zach Stone is Gonna Be Famous,7.4,0,"[""Comedy""]",30.0,2013.0,MTV,https://www.tvmaze.com/shows/7809/zach-stone-is-gonna-be-famous,0,-1.2488544703586255,True negative
+7819,Adult Wednesday Addams,6.8,0,"[""Comedy"", ""Horror""]",,2013.0,Unknown,https://www.tvmaze.com/shows/7819/adult-wednesday-addams,0,-1.1330549407291044,True negative
+7821,"Upstairs, Downstairs",7.4,0,"[""Drama""]",60.0,1971.0,ITV1,https://www.tvmaze.com/shows/7821/upstairs-downstairs,1,0.9700130523566765,False positive
+7845,Lonesome Dove,8.0,1,"[""Adventure"", ""Drama"", ""Western""]",140.0,1989.0,CBS,https://www.tvmaze.com/shows/7845/lonesome-dove,1,0.7930857699849209,True positive
+7849,Timecop,6.0,0,"[""Action"", ""Crime"", ""Science-Fiction""]",60.0,1997.0,ABC,https://www.tvmaze.com/shows/7849/timecop,0,-0.2744376670007289,True negative
+7903,Martin,6.4,0,"[""Comedy"", ""Drama""]",30.0,1992.0,FOX,https://www.tvmaze.com/shows/7903/martin,0,-0.3440874682088901,True negative
+7919,Blood and Water,7.0,0,"[""Crime"", ""Drama"", ""Mystery""]",30.0,2015.0,OMNI,https://www.tvmaze.com/shows/7919/blood-and-water,0,-0.7084536220319647,True negative
+8032,Fish,7.0,0,"[""Comedy""]",30.0,1977.0,ABC,https://www.tvmaze.com/shows/8032/fish,0,-0.1000485882866415,True negative
+8142,Lavalantula,4.8,0,"[""Horror"", ""Science-Fiction"", ""Thriller""]",120.0,2015.0,Syfy,https://www.tvmaze.com/shows/8142/lavalantula,0,-0.8976633483781232,True negative
+8163,Jean-Claude Van Johnson,7.5,0,"[""Action"", ""Comedy"", ""Drama""]",,2016.0,Unknown,https://www.tvmaze.com/shows/8163/jean-claude-van-johnson,0,-1.1452695924352452,True negative
+8171,Jake and the Fatman,7.7,0,"[""Crime"", ""Drama""]",60.0,1987.0,CBS,https://www.tvmaze.com/shows/8171/jake-and-the-fatman,0,-0.4900725247823616,True negative
+8354,Continuum,7.5,0,"[""Science-Fiction"", ""Thriller""]",5.0,2012.0,Unknown,https://www.tvmaze.com/shows/8354/continuum,0,-0.8363910457672794,True negative
+8376,The Coroner,6.5,0,"[""Crime"", ""Drama""]",45.0,2015.0,BBC One,https://www.tvmaze.com/shows/8376/the-coroner,0,-0.4452746798157053,True negative
+8400,Marcella,7.5,0,"[""Crime"", ""Drama"", ""Thriller""]",,2016.0,Unknown,https://www.tvmaze.com/shows/8400/marcella,1,0.8631407328007088,False positive
+8420,Wagon Train,6.8,0,"[""Drama"", ""Western""]",60.0,1957.0,ABC,https://www.tvmaze.com/shows/8420/wagon-train,1,0.9028748484373172,False positive
+8702,Crashing,7.6,0,"[""Comedy""]",35.0,2016.0,Channel 4,https://www.tvmaze.com/shows/8702/crashing,0,-0.19213856822082664,True negative
+8759,The Sandbaggers,7.3,0,"[""Drama"", ""Espionage"", ""War""]",60.0,1978.0,ITV1,https://www.tvmaze.com/shows/8759/the-sandbaggers,1,0.8814385452994133,False positive
+8800,The Alienist,7.4,0,"[""Crime"", ""Drama"", ""Thriller""]",60.0,2018.0,TNT,https://www.tvmaze.com/shows/8800/the-alienist,0,-0.45450205257365833,True negative
+8850,Poltergeist: The Legacy,7.0,0,"[""Fantasy"", ""Mystery"", ""Thriller""]",60.0,1996.0,Paramount+ with Showtime,https://www.tvmaze.com/shows/8850/poltergeist-the-legacy,1,0.11456781823046229,False positive
+8865,You Me Her,7.7,0,"[""Comedy"", ""Drama"", ""Romance""]",30.0,2016.0,Unknown,https://www.tvmaze.com/shows/8865/you-me-her,0,-1.312980677624147,True negative
+8873,Timeless,7.3,0,"[""Adventure"", ""Mystery"", ""Science-Fiction""]",60.0,2016.0,NBC,https://www.tvmaze.com/shows/8873/timeless,0,-0.39549224759287555,True negative
+8898,Lost in Space,7.7,0,"[""Action"", ""Drama"", ""Science-Fiction""]",,2018.0,Unknown,https://www.tvmaze.com/shows/8898/lost-in-space,1,0.6245839037341632,False positive
+9041,The Café,7.8,0,"[""Comedy""]",30.0,2011.0,Sky Showcase,https://www.tvmaze.com/shows/9041/the-cafe,0,-0.9472264683497975,True negative
+9229,Sex & Violence,4.4,0,"[""Crime"", ""Drama""]",60.0,2013.0,OUTtv,https://www.tvmaze.com/shows/9229/sex-violence,1,0.0016579244490141226,False positive
+9273,Lark Rise to Candleford,7.6,0,"[""Drama""]",60.0,2008.0,BBC One,https://www.tvmaze.com/shows/9273/lark-rise-to-candleford,0,-0.14624643843073631,True negative
+9393,Those Who Can't,6.8,0,"[""Comedy""]",30.0,2016.0,truTV,https://www.tvmaze.com/shows/9393/those-who-cant,0,-1.441673096660864,True negative
+9573,Edge,7.1,0,"[""Western""]",62.0,2015.0,Unknown,https://www.tvmaze.com/shows/9573/edge,0,-0.8616579550572463,True negative
+9693,Manhunt,7.5,0,"[""Crime"", ""Drama""]",60.0,2017.0,Unknown,https://www.tvmaze.com/shows/9693/manhunt,0,-1.4192671883384875,True negative
+9810,NOS4A2,6.5,0,"[""Drama"", ""Horror"", ""Supernatural""]",60.0,2019.0,AMC,https://www.tvmaze.com/shows/9810/nos4a2,1,0.2690202589638009,False positive
+9815,Upstart Crow,7.7,0,"[""Comedy""]",,2016.0,BBC Two,https://www.tvmaze.com/shows/9815/upstart-crow,1,0.4579250771863209,False positive
+9819,The Halcyon,7.6,0,"[""Drama"", ""War""]",60.0,2017.0,ITV1,https://www.tvmaze.com/shows/9819/the-halcyon,0,-1.8520320926940212,True negative
+9823,The Good Karma Hospital,7.6,0,"[""Drama"", ""Medical""]",60.0,2017.0,ITV1,https://www.tvmaze.com/shows/9823/the-good-karma-hospital,0,-1.0520700464107913,True negative
+9906,Spirited,6.3,0,"[""Comedy"", ""Drama"", ""Romance""]",60.0,2010.0,Unknown,https://www.tvmaze.com/shows/9906/spirited,0,-0.7870742703437213,True negative
+9977,Logan's Run,7.7,0,"[""Adventure"", ""Science-Fiction""]",60.0,1977.0,CBS,https://www.tvmaze.com/shows/9977/logans-run,0,-0.5480940630111909,True negative
+9993,Animal Kingdom,7.8,0,"[""Crime"", ""Drama""]",60.0,2016.0,TNT,https://www.tvmaze.com/shows/9993/animal-kingdom,0,-0.5501538433785241,True negative
+10401,Ned and Stacey,7.5,0,"[""Comedy""]",30.0,1995.0,FOX,https://www.tvmaze.com/shows/10401/ned-and-stacey,0,-0.4778680707997593,True negative
+10460,Shōgun,7.8,0,"[""Action"", ""Adventure"", ""Drama""]",120.0,1980.0,NBC,https://www.tvmaze.com/shows/10460/shogun,1,0.20385669186302469,False positive
+11040,The Wizards of Aus,6.8,0,"[""Comedy"", ""Fantasy""]",11.0,2016.0,SBS,https://www.tvmaze.com/shows/11040/the-wizards-of-aus,0,-1.4217201646972735,True negative
+11208,Total Recall 2070,6.7,0,"[""Drama"", ""Science-Fiction"", ""Thriller""]",60.0,1999.0,CBC,https://www.tvmaze.com/shows/11208/total-recall-2070,1,1.0471575393288652,False positive
+11223,Sue Thomas F.B.Eye,7.9,0,"[""Crime"", ""Drama""]",60.0,2002.0,ION,https://www.tvmaze.com/shows/11223/sue-thomas-fbeye,1,0.3068506864640751,False positive
+11266,Gypsy,6.4,0,"[""Drama"", ""Romance"", ""Thriller""]",,2017.0,Unknown,https://www.tvmaze.com/shows/11266/gypsy,1,0.5497649687542664,False positive
+11333,The Detour,6.9,0,"[""Comedy"", ""Family""]",30.0,2016.0,TBS,https://www.tvmaze.com/shows/11333/the-detour,0,-1.309685558719889,True negative
+11354,All My Children,7.4,0,"[""Drama"", ""Family"", ""Romance""]",60.0,1970.0,ABC,https://www.tvmaze.com/shows/11354/all-my-children,0,-0.8790072909422467,True negative
+11401,The Son,7.8,0,"[""Action"", ""Drama"", ""Western""]",60.0,2017.0,AMC,https://www.tvmaze.com/shows/11401/the-son,1,0.8512247308254167,False positive
+11549,One Day at a Time,6.2,0,"[""Comedy"", ""Family""]",30.0,2017.0,Pop,https://www.tvmaze.com/shows/11549/one-day-at-a-time,0,-1.348899147280828,True negative
+11553,Speechless,7.7,0,"[""Comedy"", ""Family""]",30.0,2016.0,ABC,https://www.tvmaze.com/shows/11553/speechless,0,-1.382510989670219,True negative
+11649,Queen Sugar,6.8,0,"[""Drama""]",60.0,2016.0,Oprah Winfrey Network,https://www.tvmaze.com/shows/11649/queen-sugar,0,-1.035736243343565,True negative
+11825,The Replacement,7.1,0,"[""Drama"", ""Thriller""]",60.0,2017.0,BBC One,https://www.tvmaze.com/shows/11825/the-replacement,0,-0.4148415622705978,True negative
+12003,Eyewitness,7.5,0,"[""Crime"", ""Drama"", ""Thriller""]",60.0,2016.0,USA Network,https://www.tvmaze.com/shows/12003/eyewitness,1,0.6364846284990823,False positive
+12069,Crashing,5.8,0,"[""Comedy""]",30.0,2017.0,HBO,https://www.tvmaze.com/shows/12069/crashing,0,-1.3250357437925546,True negative
+12406,The Great Indoors,5.6,0,"[""Comedy""]",30.0,2016.0,CBS,https://www.tvmaze.com/shows/12406/the-great-indoors,0,-1.8693334162912416,True negative
+12720,Street Legal,6.6,0,"[""Drama"", ""Legal""]",60.0,1987.0,CBC,https://www.tvmaze.com/shows/12720/street-legal,1,0.6560797576552897,False positive
+12805,Kung Fu: The Legend Continues,6.3,0,"[""Action"", ""Adventure"", ""Drama""]",60.0,1993.0,Syndication,https://www.tvmaze.com/shows/12805/kung-fu-the-legend-continues,0,-0.8552215087036938,True negative
+12886,The White Princess,7.3,0,"[""Drama"", ""History""]",60.0,2017.0,STARZ,https://www.tvmaze.com/shows/12886/the-white-princess,0,-0.7736634196647841,True negative
+13417,Ozark,8.2,1,"[""Crime"", ""Drama"", ""Thriller""]",,2017.0,Unknown,https://www.tvmaze.com/shows/13417/ozark,1,1.2522431807582608,True positive
+13575,Dante's Cove,6.6,0,"[""Drama"", ""Mystery"", ""Supernatural""]",60.0,2005.0,Here TV,https://www.tvmaze.com/shows/13575/dantes-cove,1,0.7370666156507931,False positive
+13768,Tina & Bobby,6.3,0,"[""Drama"", ""History"", ""Romance""]",60.0,2017.0,ITV1,https://www.tvmaze.com/shows/13768/tina-bobby,0,-0.5362175343585659,True negative
+14111,Salem's Lot,7.0,0,"[""Drama"", ""Horror""]",184.0,1979.0,CBS,https://www.tvmaze.com/shows/14111/salems-lot,1,0.8643218941514698,False positive
+14680,The Secrets of ISIS,7.7,0,"[""Adventure"", ""Drama"", ""Fantasy""]",30.0,1975.0,CBS,https://www.tvmaze.com/shows/14680/the-secrets-of-isis,0,-1.5040301756919148,True negative

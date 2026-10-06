@@ -1,0 +1,7 @@
+step,before,removed,after
+Deduplicate identical show IDs,14055,0,14055
+English-language series only,14055,3483,10572
+Scripted series only,10572,6501,4071
+Require a valid observed rating from 0 to 10,4071,1732,2339
+Require non-empty plot text for the future Final,2339,0,2339
+Exclude premieres after collection date,2339,0,2339

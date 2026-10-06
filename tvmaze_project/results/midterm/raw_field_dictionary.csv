@@ -1,0 +1,24 @@
+Raw top-level field,JSON value types,Treatment
+_links,dict,"Navigation and episode links, excluded"
+averageRuntime,"NoneType, int","Episode-aggregate runtime, excluded"
+dvdCountry,"NoneType, dict","DVD distribution metadata, excluded"
+ended,"NoneType, str","Post-release end date, excluded"
+externals,dict,"External identifiers, excluded"
+genres,list,Genre features
+id,int,"Identifier, excluded"
+image,"NoneType, dict","Image links retained in raw JSON, unused"
+language,"NoneType, str",Eligibility only
+name,str,"Title, excluded"
+network,"NoneType, dict",Network and broadcast-country features
+officialSite,"NoneType, str","URL, excluded"
+premiered,"NoneType, str",Year feature and eligibility
+rating,dict,Observed label only
+runtime,"NoneType, int",Episode-runtime feature
+schedule,dict,"Current schedule, excluded"
+status,str,"Post-release status, excluded"
+summary,"NoneType, str",Retained for Final only
+type,str,Eligibility only
+updated,int,"Update timestamp, excluded"
+url,str,"Source link, excluded"
+webChannel,"NoneType, dict",Platform and country features
+weight,int,"Popularity proxy, excluded"

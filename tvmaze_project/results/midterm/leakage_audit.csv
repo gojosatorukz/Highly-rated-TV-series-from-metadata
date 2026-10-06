@@ -1,0 +1,6 @@
+Fields,Reason
+"rating, high_rated",The rating defines the target. Neither field enters X.
+"show_id, name, source_url, externals, officialSite","Identifiers or direct lookup/memorisation routes, excluded."
+"weight, status, ended, updated, schedule, averageRuntime, _links","Popularity, post-release outcomes or time-varying proxies, excluded."
+"plot_summary, image",Additional modalities reserved for later comparison at Final.
+"language, show_type","Constant cohort filters, excluded."

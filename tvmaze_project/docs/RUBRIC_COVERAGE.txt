@@ -1,0 +1,13 @@
+Midterm rubric coverage
+1 Question, data and data ethics: notebook sections 1-2, collector, raw snapshot, timestamps,
+  source_check.json and data attribution on slides 1-2.
+2 Preparation and exploration: cleaning_audit.csv, leakage_audit.csv, training-only plots,
+  imputation/encoding/scaling inside pipelines, notebook sections 2-4.
+3 Modelling: frozen split/folds, two dummy references and three Week 3-4 classifiers,
+  fixed justified parameters and complete executable notebook, sections 3 and 5.
+4 Results and errors: mean/SD CV and held-out table for every model, confusion matrix,
+  ROC/PR figures, real error examples and subgroup diagnostics, sections 6-7.
+5 Conclusions and Endterm plan: concrete limitations, measured conclusion, syllabus-aligned
+  ensembles/tuning, clustering/PCA and neural-network plan, Contributions and AI assistance.
+6 Presentation: nine editable slides and English speaker notes. Russian study guide included.
+7 Individual questions: both partners prepare using the study guide and understand the entire notebook.

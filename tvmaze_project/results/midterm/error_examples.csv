@@ -1,0 +1,7 @@
+show_id,name,rating,high_rated,genres,runtime_minutes,premiere_year,network,source_url,predicted_high_rated,score,outcome
+2024,Touching Evil,7.1,0,"[""Crime"", ""Drama"", ""Thriller""]",60.0,2004.0,USA Network,https://www.tvmaze.com/shows/2024/touching-evil,1,1.3116810346706893,False positive
+471,The Prisoner,6.9,0,"[""Drama"", ""Mystery"", ""Science-Fiction""]",60.0,2009.0,AMC,https://www.tvmaze.com/shows/471/the-prisoner,1,1.2277580258660372,False positive
+318,Community,8.3,1,"[""Comedy""]",30.0,2009.0,Unknown,https://www.tvmaze.com/shows/318/community,0,-1.6271356387200013,False negative
+720,Rules of Engagement,8.0,1,"[""Comedy"", ""Romance""]",30.0,2007.0,CBS,https://www.tvmaze.com/shows/720/rules-of-engagement,0,-1.6160430422375263,False negative
+2,Person of Interest,8.8,1,"[""Action"", ""Crime"", ""Science-Fiction""]",60.0,2011.0,CBS,https://www.tvmaze.com/shows/2/person-of-interest,1,0.015383663609858322,True positive
+3,Bitten,7.4,0,"[""Drama"", ""Horror"", ""Romance""]",60.0,2014.0,CTV Sci-Fi Channel,https://www.tvmaze.com/shows/3/bitten,0,-1.0332235469472613,True negative

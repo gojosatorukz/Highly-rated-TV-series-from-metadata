@@ -1,0 +1,20 @@
+{
+  "selected_model": "SVM",
+  "selection_metric": "Mean training-only 5-fold high-rated-class F1",
+  "tie_breaker": "CV ROC-AUC, then model name",
+  "target_threshold": 8.0,
+  "random_seed": 42,
+  "features": [
+    "premiere_year",
+    "runtime_minutes",
+    "network",
+    "web_channel",
+    "broadcast_country",
+    "distribution",
+    "genres"
+  ],
+  "decision_threshold": "Estimator default: SVM margin 0; probability models 0.5",
+  "parameter_policy": "Predeclared fixed parameters, no test-set tuning",
+  "cv_summary_sha256": "ec765f64300688362b03c48f61fb228ecf6fabdeb9d9d20c40db9ac77ae156ff",
+  "split_sha256": "a3b43bfe6f5ba098bc529cf753213e218ca682b65a4231e58b12e81e363ea02b"
+}

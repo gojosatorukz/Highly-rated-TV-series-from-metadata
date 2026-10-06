@@ -1,0 +1,5 @@
+Stage,Observed weakness,Action
+"Endterm, ensembles and tuning",119 false positives and 40 false negatives with simple fixed models,Compare Random Forest and Gradient Boosting with training-only GridSearchCV on frozen folds; tune the precision/recall tradeoff using training predictions only.
+"Endterm, clustering and PCA",Metadata overlap and small/uneven subgroups,"Fit PCA and K-Means on training features to inspect metadata segments, then describe held-out errors by segment without using labels to form clusters."
+"Endterm, neural network",Simple models may miss feature interactions; minority labels are limited,Compare a small regularised MLP with early stopping inside training. Use learning curves to check overfitting.
+"Final, text and local app",Metadata omit plot themes and story information,"Add train-fitted TF-IDF or text embeddings from the retained summaries and compare with metadata-only on identical frozen IDs. Package a local app, report and defense."

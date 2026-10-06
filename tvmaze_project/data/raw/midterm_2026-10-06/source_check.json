@@ -1,0 +1,29 @@
+{
+  "checked_utc": "2026-10-06T07:06:25.310827+00:00",
+  "authentication": "No account, token or login used.",
+  "objects": "TV show metadata and plot summaries. No user profiles or private personal records collected.",
+  "api_terms_url": "https://www.tvmaze.com/api#licensing",
+  "data_license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Source: TVmaze, https://www.tvmaze.com. API: https://www.tvmaze.com/api.",
+  "requests": [
+    {
+      "url": "https://www.tvmaze.com/robots.txt",
+      "http_status": 200,
+      "sha256": "147f7dcee59dcb43f088cc58da168c87cbef26197ea32dc1292497bcdf5313d3",
+      "text": "Sitemap: https://www.tvmaze.com/sitemaps/recaps.xml\nSitemap: https://www.tvmaze.com/sitemaps/shows.xml\nSitemap: https://www.tvmaze.com/sitemaps/networks.xml\nSitemap: https://www.tvmaze.com/sitemaps/characters.xml\nSitemap: https://www.tvmaze.com/sitemaps/episodes.xml\nSitemap: https://www.tvmaze.com/sitemaps/people.xml\n\nUser-agent: *\nDisallow: /stats\nDisallow: /offer\nDisallow: /users/*/*/followed\nDisallow: /users/*/*/watched\n"
+    },
+    {
+      "url": "https://api.tvmaze.com/robots.txt",
+      "http_status": 404,
+      "interpretation": "No robots file at API host; use the expressly documented public API and its licensing/rate-limit conditions."
+    },
+    {
+      "url": "https://www.tvmaze.com/api",
+      "http_status": 200,
+      "sha256": "697b7180721a82758b40158e4748364816419c3766d1600c9ca04780c1f699c1",
+      "licensing_excerpt": "Use of the TVmaze API is licensed by CC BY-SA. This means\n            the data can freely be used for any purpose, as long as TVmaze is properly credited as source and your usage\n            complies with the ShareAlike provision. You can satisfy the attribution requirement by linking\n            back to TVmaze from within your application or website, for example using the URLs available in the API.\n\n            Enterprise API\n\n            \n            Does your usecase require data or functionality not available in the public API? Are you looking for a different license,\n            SLA or support level? Contact our sales department to discuss the possibilities.\n            "
+    }
+  ],
+  "robots_interpretation": "The website robots file restricts stats, offers and user-followed/watched paths. This collector calls the documented public show-index API and none of those paths."
+}
